@@ -3,6 +3,7 @@
 #include "RandomPlayer.h"
 #include "MinimaxPlayer.h"
 #include "MCTSPlayer.h"
+#include "MaxPlayer.h"
 #include <fstream>
 #include <iostream>
 
@@ -67,8 +68,8 @@ void runSimulation(int numGames) {
     for (int i = 1; i <= numGames; ++i) {
         if (i % 10 == 0) std::cout << i << std::endl;
 
-        Player* p1 = new MCTSPlayer(0);
-        Player* p2 = new MinimaxPlayer(1,1);
+        Player* p1 = new MinimaxPlayer(0, 1);
+        Player* p2 = new MaxPlayer(1);
 
         Game game(p1, p2);
         game.runSilent();
