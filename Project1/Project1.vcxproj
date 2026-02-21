@@ -134,6 +134,7 @@
     <ClCompile Include="MaxPlayer.cpp" />
     <ClCompile Include="MCTSPlayer.cpp" />
     <ClCompile Include="MinimaxPlayer.cpp" />
+    <ClCompile Include="MinPlayer.cpp" />
     <ClCompile Include="RandomPlayer.cpp" />
     <ClCompile Include="Rules.cpp" />
   </ItemGroup>
@@ -144,6 +145,7 @@
     <ClInclude Include="MCTSPlayer.h" />
     <ClInclude Include="MinimaxPlayer.h" />
     <ClInclude Include="HumanPlayer.h" />
+    <ClInclude Include="MinPlayer.h" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="RandomPlayer.h" />
     <ClInclude Include="Rules.h" />

@@ -4,6 +4,7 @@
 #include "MinimaxPlayer.h"
 #include "MCTSPlayer.h"
 #include "MaxPlayer.h"
+#include "MinPlayer.h"
 #include <fstream>
 #include <iostream>
 
@@ -14,7 +15,7 @@ const std::string OutputFile = "results.txt";
 
 int main() {
 
-    const int NUM_GAMES = 100;
+    const int NUM_GAMES = 1000;
 
     int mode;
 
@@ -68,8 +69,8 @@ void runSimulation(int numGames) {
     for (int i = 1; i <= numGames; ++i) {
         if (i % 10 == 0) std::cout << i << std::endl;
 
-        Player* p1 = new MinimaxPlayer(0, 1);
-        Player* p2 = new MaxPlayer(1);
+        Player* p1 = new RandomPlayer(0);
+        Player* p2 = new MinimaxPlayer(1,3);
 
         Game game(p1, p2);
         game.runSilent();
