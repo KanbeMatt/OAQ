@@ -109,5 +109,53 @@
     <Text Include="MCTSVsMinimax.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="RandomVsMax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="RandomVsMin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinimaxVsMax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinimaxVsMin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MCTSVsMax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MCTSVsMin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MaxVsRandom.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MaxVsMinimax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MaxVsMCTS.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MaxVsMax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MaxVsMin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinVsRandom.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinVsMinimax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinVsMCTS.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinVsMax.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="MinVsMin.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

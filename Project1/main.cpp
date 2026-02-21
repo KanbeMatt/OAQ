@@ -11,7 +11,7 @@
 void runSingleGame();
 void runSimulation(int numGames);
 
-const std::string OutputFile = "results.txt";
+const std::string OutputFile = "MCTSVsMin.txt";
 
 int main() {
 
@@ -69,8 +69,8 @@ void runSimulation(int numGames) {
     for (int i = 1; i <= numGames; ++i) {
         if (i % 10 == 0) std::cout << i << std::endl;
 
-        Player* p1 = new RandomPlayer(0);
-        Player* p2 = new MinimaxPlayer(1,3);
+        Player* p1 = new MCTSPlayer(0);
+        Player* p2 = new MinPlayer(1);
 
         Game game(p1, p2);
         game.runSilent();

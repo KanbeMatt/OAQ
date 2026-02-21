@@ -151,13 +151,29 @@
     <ClInclude Include="Rules.h" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="MaxVsMax.txt" />
+    <Text Include="MaxVsMCTS.txt" />
+    <Text Include="MaxVsMin.txt" />
+    <Text Include="MaxVsMinimax.txt" />
+    <Text Include="MaxVsRandom.txt" />
+    <Text Include="MCTSVsMax.txt" />
     <Text Include="MCTSVsMCTS.txt" />
+    <Text Include="MCTSVsMin.txt" />
     <Text Include="MCTSVsMinimax.txt" />
     <Text Include="MCTSVsRandom.txt" />
+    <Text Include="MinimaxVsMax.txt" />
     <Text Include="MinimaxVsMCTS.txt" />
+    <Text Include="MinimaxVsMin.txt" />
     <Text Include="MinimaxVsMinimax.txt" />
     <Text Include="MinimaxVsRandom.txt" />
+    <Text Include="MinVsMax.txt" />
+    <Text Include="MinVsMCTS.txt" />
+    <Text Include="MinVsMin.txt" />
+    <Text Include="MinVsMinimax.txt" />
+    <Text Include="MinVsRandom.txt" />
+    <Text Include="RandomVsMax.txt" />
     <Text Include="RandomVsMCTS.txt" />
+    <Text Include="RandomVsMin.txt" />
     <Text Include="RandomVsMinimax.txt" />
     <Text Include="RandomVsRandom.txt" />
     <Text Include="results.txt" />
