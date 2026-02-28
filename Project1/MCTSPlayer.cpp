@@ -83,42 +83,39 @@ MCTSPlayer::Node* MCTSPlayer::select(Node* node) {
 // ============================
 MCTSPlayer::Node* MCTSPlayer::expand(Node* node) {
 
-    auto moves = generateMoves(node->state, node->sideToMove);
-    if (moves.empty()) return node;
+    if (node->untriedMoves.empty()) return node;
 
     std::uniform_real_distribution<double> prob(0.0, 1.0);
 
-    Move chosenMove;
-
-    // 🎲 Exploration
-    if (prob(rng) < epsilon) {
-
-        chosenMove = moves[rng() % moves.size()];
-
+    int moveIndex = static_cast<int>(node->untriedMoves.size()) - 1;
+    // occasionally explore a random unexpanded move
+    if (prob(rng) < epsilon && node->untriedMoves.size() > 1) {
+        std::uniform_int_distribution<int> dist(0, static_cast<int>(node->untriedMoves.size()) - 1);
+        moveIndex = dist(rng);
     }
-    // 🧠 Greedy choice
     else {
-
+        // greedily choose the best unexpanded move by one-step heuristic
         double bestScore = -1e9;
-        Move bestMove = moves[0];
-
-        for (const Move& m : moves) {
+        for (int i = 0; i < static_cast<int>(node->untriedMoves.size()); ++i) {
+            const Move& m = node->untriedMoves[i];
 
             GameState next = node->state;
 
             if (!Rules::prepareTurn(next, node->sideToMove))
                 Rules::applyMove(next, m.pitIndex, m.clockwise, node->sideToMove);
 
-            double h = quickHeuristic(node->state, next);
+            const double h = quickHeuristic(node->state, next);
 
             if (h > bestScore) {
                 bestScore = h;
-                bestMove = m;
+                moveIndex = i;
             }
         }
-
-        chosenMove = bestMove;
     }
+
+    Move chosenMove = node->untriedMoves[moveIndex];
+    node->untriedMoves[moveIndex] = node->untriedMoves.back();
+    node->untriedMoves.pop_back();
 
     GameState next = node->state;
 
@@ -130,6 +127,7 @@ MCTSPlayer::Node* MCTSPlayer::expand(Node* node) {
     child->sideToMove = 1 - node->sideToMove;
     child->moveFromParent = chosenMove;
     child->parent = node;
+    child->untriedMoves = generateMoves(next, child->sideToMove);
 
     node->children.push_back(std::move(child));
     return node->children.back().get();

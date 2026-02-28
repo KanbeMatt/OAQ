@@ -7,11 +7,12 @@
 #include "MinPlayer.h"
 #include <fstream>
 #include <iostream>
+#include <chrono>
 
 void runSingleGame();
 void runSimulation(int numGames);
 
-const std::string OutputFile = "MCTSVsMin.txt";
+const std::string OutputFile = "results.txt";
 
 int main() {
 
@@ -66,11 +67,16 @@ void runSimulation(int numGames) {
     int draws = 0;
     int totalMoves = 0;
 
+    using clock = std::chrono::steady_clock;
+    const auto simulationStart = clock::now();
+
     for (int i = 1; i <= numGames; ++i) {
         if (i % 10 == 0) std::cout << i << std::endl;
 
-        Player* p1 = new MCTSPlayer(0);
-        Player* p2 = new MinPlayer(1);
+        const auto gameStart = clock::now();
+
+        Player* p1 = new MinimaxPlayer(0);
+        Player* p2 = new RandomPlayer(1);
 
         Game game(p1, p2);
         game.runSilent();
@@ -78,6 +84,8 @@ void runSimulation(int numGames) {
         int s1 = game.getScore1();
         int s2 = game.getScore2();
         int moves = game.getMoves();
+        const auto gameEnd = clock::now();
+        const auto gameDurationMs = std::chrono::duration_cast<std::chrono::milliseconds>(gameEnd - gameStart).count();
 
         totalMoves += moves;
 
@@ -89,6 +97,7 @@ void runSimulation(int numGames) {
             << " | P1: " << s1
             << " | P2: " << s2
             << " | Moves: " << moves
+            << " | Time(ms): " << gameDurationMs
             << "\n";
 
         delete p1;
@@ -101,6 +110,14 @@ void runSimulation(int numGames) {
     out << "Draws: " << draws << "\n";
     out << "Average Moves per Game: "
         << static_cast<double>(totalMoves) / numGames << "\n";
+
+    const auto simulationEnd = clock::now();
+    const auto totalDurationMs =
+        std::chrono::duration_cast<std::chrono::milliseconds>(simulationEnd - simulationStart).count();
+
+    out << "Total Simulation Time(ms): " << totalDurationMs << "\n";
+    out << "Average Time per Game(ms): "
+        << static_cast<double>(totalDurationMs) / numGames << "\n";
 
     out.close();
 
