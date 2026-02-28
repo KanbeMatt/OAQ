@@ -182,61 +182,38 @@ void runAllSimulations(int numGames) {
         return;
     }
 
-    int p1Wins = 0;
-    int p2Wins = 0;
-    int draws = 0;
-    int totalMoves = 0;
+    resultsOut << std::left
+        << std::setw(12) << "P1"
+        << std::setw(12) << "P2"
+        << std::setw(10) << "P1 Win%"
+        << std::setw(10) << "P2 Win%"
+        << std::setw(10) << "Draw%"
+        << std::setw(12) << "Avg Moves"
+        << std::setw(12) << "Avg ms"
+        << "File"
+        << "\n";
 
-    using clock = std::chrono::steady_clock;
-    const auto simulationStart = clock::now();
+    resultsOut << std::string(80, '-') << "\n";
+    resultsOut << std::fixed << std::setprecision(2);
 
-    for (int i = 1; i <= numGames; ++i) {
-        if (i % 10 == 0) std::cout << i << std::endl;
+    for (const MatchSummary& summary : allSummaries) {
+        const double p1WinPct = 100.0 * summary.p1Wins / summary.games;
+        const double p2WinPct = 100.0 * summary.p2Wins / summary.games;
+        const double drawPct = 100.0 * summary.draws / summary.games;
+        const double avgMoves = static_cast<double>(summary.totalMoves) / summary.games;
+        const double avgMs = static_cast<double>(summary.totalTimeMs) / summary.games;
 
-        const auto gameStart = clock::now();
-
-        Player* p1 = new MinimaxPlayer(0);
-        Player* p2 = new RandomPlayer(1);
-
-        Game game(p1, p2);
-        game.runSilent();
-
-        int s1 = game.getScore1();
-        int s2 = game.getScore2();
-        int moves = game.getMoves();
-        const auto gameEnd = clock::now();
-        const auto gameDurationMs = std::chrono::duration_cast<std::chrono::milliseconds>(gameEnd - gameStart).count();
-
-        totalMoves += moves;
-
-        if (s1 > s2) p1Wins++;
-        else if (s2 > s1) p2Wins++;
-        else draws++;
-
-        resultsOut << "Game " << i
-            << " | P1: " << s1
-            << " | P2: " << s2
-            << " | Moves: " << moves
-            << " | Time(ms): " << gameDurationMs
+        resultsOut << std::left
+            << std::setw(12) << summary.p1Name
+            << std::setw(12) << summary.p2Name
+            << std::setw(10) << p1WinPct
+            << std::setw(10) << p2WinPct
+            << std::setw(10) << drawPct
+            << std::setw(12) << avgMoves
+            << std::setw(12) << avgMs
+            << (summary.p1Name + "Vs" + summary.p2Name + ".txt")
             << "\n";
     }
-
-    resultsOut << "\nSUMMARY\n";
-    resultsOut << "P1 Wins: " << p1Wins << "\n";
-    resultsOut << "P2 Wins: " << p2Wins << "\n";
-    resultsOut << "Draws: " << draws << "\n";
-    resultsOut << "Average Moves per Game: "
-        << static_cast<double>(totalMoves) / numGames << "\n";
-
-    const auto simulationEnd = clock::now();
-    const auto totalDurationMs =
-        std::chrono::duration_cast<std::chrono::milliseconds>(simulationEnd - simulationStart).count();
-
-    resultsOut << "Total Simulation Time(ms): " << totalDurationMs << "\n";
-    resultsOut << "Average Time per Game(ms): "
-        << static_cast<double>(totalDurationMs) / numGames << "\n";
-
-    resultsOut.close();
 
     std::cout << "Simulation complete. Results written to results.txt\n";
 }
