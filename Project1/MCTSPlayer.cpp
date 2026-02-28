@@ -82,12 +82,12 @@ MCTSPlayer::Node* MCTSPlayer::select(Node* node) {
 // Expansion
 // ============================
 MCTSPlayer::Node* MCTSPlayer::expand(Node* node) {
+
     if (node->untriedMoves.empty()) return node;
 
     std::uniform_real_distribution<double> prob(0.0, 1.0);
 
     int moveIndex = static_cast<int>(node->untriedMoves.size()) - 1;
-
     // occasionally explore a random unexpanded move
     if (prob(rng) < epsilon && node->untriedMoves.size() > 1) {
         std::uniform_int_distribution<int> dist(0, static_cast<int>(node->untriedMoves.size()) - 1);
@@ -105,6 +105,7 @@ MCTSPlayer::Node* MCTSPlayer::expand(Node* node) {
                 Rules::applyMove(next, m.pitIndex, m.clockwise, node->sideToMove);
 
             const double h = quickHeuristic(node->state, next);
+
             if (h > bestScore) {
                 bestScore = h;
                 moveIndex = i;
