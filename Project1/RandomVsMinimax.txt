@@ -1,1006 +1,1008 @@
-Game 1 | P1: 51 | P2: 15 | Moves: 11
-Game 2 | P1: 15 | P2: 43 | Moves: 20
-Game 3 | P1: 8 | P2: 55 | Moves: 24
-Game 4 | P1: 16 | P2: 54 | Moves: 8
-Game 5 | P1: 6 | P2: 58 | Moves: 6
-Game 6 | P1: 11 | P2: 57 | Moves: 10
-Game 7 | P1: 17 | P2: 43 | Moves: 14
-Game 8 | P1: 23 | P2: 46 | Moves: 8
-Game 9 | P1: 7 | P2: 46 | Moves: 8
-Game 10 | P1: 1 | P2: 63 | Moves: 8
-Game 11 | P1: 23 | P2: 42 | Moves: 12
-Game 12 | P1: 9 | P2: 51 | Moves: 8
-Game 13 | P1: 30 | P2: 36 | Moves: 24
-Game 14 | P1: 60 | P2: 10 | Moves: 5
-Game 15 | P1: 45 | P2: 24 | Moves: 11
-Game 16 | P1: 11 | P2: 48 | Moves: 16
-Game 17 | P1: 15 | P2: 43 | Moves: 18
-Game 18 | P1: 18 | P2: 48 | Moves: 8
-Game 19 | P1: 1 | P2: 41 | Moves: 10
-Game 20 | P1: 19 | P2: 41 | Moves: 12
-Game 21 | P1: 56 | P2: 7 | Moves: 11
-Game 22 | P1: 15 | P2: 42 | Moves: 10
-Game 23 | P1: 10 | P2: 56 | Moves: 16
-Game 24 | P1: 12 | P2: 54 | Moves: 12
-Game 25 | P1: 3 | P2: 59 | Moves: 16
-Game 26 | P1: 10 | P2: 48 | Moves: 12
-Game 27 | P1: 60 | P2: 10 | Moves: 5
-Game 28 | P1: 21 | P2: 41 | Moves: 16
-Game 29 | P1: 16 | P2: 43 | Moves: 32
-Game 30 | P1: 0 | P2: 40 | Moves: 16
-Game 31 | P1: 12 | P2: 50 | Moves: 18
-Game 32 | P1: 10 | P2: 52 | Moves: 16
-Game 33 | P1: 24 | P2: 44 | Moves: 70
-Game 34 | P1: 22 | P2: 42 | Moves: 20
-Game 35 | P1: 2 | P2: 21 | Moves: 5
-Game 36 | P1: 16 | P2: 43 | Moves: 10
-Game 37 | P1: 53 | P2: 6 | Moves: 9
-Game 38 | P1: 27 | P2: 39 | Moves: 17
-Game 39 | P1: 10 | P2: 54 | Moves: 14
-Game 40 | P1: 8 | P2: 44 | Moves: 14
-Game 41 | P1: 6 | P2: 55 | Moves: 20
-Game 42 | P1: 15 | P2: 46 | Moves: 12
-Game 43 | P1: 3 | P2: 52 | Moves: 8
-Game 44 | P1: 1 | P2: 55 | Moves: 10
-Game 45 | P1: 19 | P2: 46 | Moves: 16
-Game 46 | P1: 7 | P2: 43 | Moves: 6
-Game 47 | P1: 10 | P2: 47 | Moves: 10
-Game 48 | P1: 16 | P2: 46 | Moves: 52
-Game 49 | P1: 4 | P2: 47 | Moves: 12
-Game 50 | P1: 56 | P2: 10 | Moves: 7
-Game 51 | P1: 0 | P2: 40 | Moves: 10
-Game 52 | P1: 2 | P2: 22 | Moves: 6
-Game 53 | P1: 5 | P2: 53 | Moves: 16
-Game 54 | P1: 24 | P2: 43 | Moves: 12
-Game 55 | P1: 10 | P2: 51 | Moves: 12
-Game 56 | P1: 21 | P2: 41 | Moves: 18
-Game 57 | P1: 9 | P2: 55 | Moves: 18
-Game 58 | P1: 18 | P2: 43 | Moves: 18
-Game 59 | P1: 3 | P2: 41 | Moves: 10
-Game 60 | P1: 17 | P2: 46 | Moves: 8
-Game 61 | P1: 4 | P2: 55 | Moves: 18
-Game 62 | P1: 51 | P2: 9 | Moves: 9
-Game 63 | P1: 17 | P2: 41 | Moves: 72
-Game 64 | P1: 7 | P2: 56 | Moves: 10
-Game 65 | P1: 21 | P2: 41 | Moves: 6
-Game 66 | P1: 6 | P2: 46 | Moves: 12
-Game 67 | P1: 7 | P2: 57 | Moves: 14
-Game 68 | P1: 17 | P2: 48 | Moves: 10
-Game 69 | P1: 22 | P2: 42 | Moves: 14
-Game 70 | P1: 4 | P2: 45 | Moves: 12
-Game 71 | P1: 0 | P2: 70 | Moves: 6
-Game 72 | P1: 7 | P2: 42 | Moves: 12
-Game 73 | P1: 6 | P2: 64 | Moves: 10
-Game 74 | P1: 12 | P2: 44 | Moves: 16
-Game 75 | P1: 16 | P2: 43 | Moves: 44
-Game 76 | P1: 18 | P2: 44 | Moves: 12
-Game 77 | P1: 0 | P2: 70 | Moves: 6
-Game 78 | P1: 10 | P2: 50 | Moves: 12
-Game 79 | P1: 15 | P2: 49 | Moves: 10
-Game 80 | P1: 8 | P2: 43 | Moves: 10
-Game 81 | P1: 18 | P2: 42 | Moves: 18
-Game 82 | P1: 7 | P2: 58 | Moves: 22
-Game 83 | P1: 8 | P2: 54 | Moves: 12
-Game 84 | P1: 4 | P2: 42 | Moves: 12
-Game 85 | P1: 7 | P2: 46 | Moves: 8
-Game 86 | P1: 4 | P2: 56 | Moves: 18
-Game 87 | P1: 17 | P2: 52 | Moves: 8
-Game 88 | P1: 10 | P2: 60 | Moves: 16
-Game 89 | P1: 21 | P2: 41 | Moves: 6
-Game 90 | P1: 6 | P2: 64 | Moves: 6
-Game 91 | P1: 12 | P2: 48 | Moves: 10
-Game 92 | P1: 6 | P2: 42 | Moves: 12
-Game 93 | P1: 6 | P2: 40 | Moves: 8
-Game 94 | P1: 16 | P2: 45 | Moves: 24
-Game 95 | P1: 8 | P2: 55 | Moves: 12
-Game 96 | P1: 15 | P2: 52 | Moves: 6
-Game 97 | P1: 28 | P2: 39 | Moves: 10
-Game 98 | P1: 15 | P2: 48 | Moves: 10
-Game 99 | P1: 16 | P2: 44 | Moves: 20
-Game 100 | P1: 1 | P2: 53 | Moves: 10
-Game 101 | P1: 18 | P2: 45 | Moves: 10
-Game 102 | P1: 8 | P2: 53 | Moves: 8
-Game 103 | P1: 3 | P2: 47 | Moves: 8
-Game 104 | P1: 15 | P2: 52 | Moves: 6
-Game 105 | P1: 8 | P2: 45 | Moves: 8
-Game 106 | P1: 6 | P2: 64 | Moves: 12
-Game 107 | P1: 6 | P2: 53 | Moves: 10
-Game 108 | P1: 17 | P2: 44 | Moves: 16
-Game 109 | P1: 8 | P2: 51 | Moves: 12
-Game 110 | P1: 4 | P2: 54 | Moves: 18
-Game 111 | P1: 18 | P2: 47 | Moves: 20
-Game 112 | P1: 5 | P2: 54 | Moves: 20
-Game 113 | P1: 52 | P2: 8 | Moves: 9
-Game 114 | P1: 19 | P2: 42 | Moves: 78
-Game 115 | P1: 10 | P2: 52 | Moves: 14
-Game 116 | P1: 11 | P2: 48 | Moves: 14
-Game 117 | P1: 15 | P2: 42 | Moves: 16
-Game 118 | P1: 6 | P2: 43 | Moves: 8
-Game 119 | P1: 6 | P2: 52 | Moves: 14
-Game 120 | P1: 51 | P2: 7 | Moves: 9
-Game 121 | P1: 8 | P2: 42 | Moves: 12
-Game 122 | P1: 4 | P2: 53 | Moves: 10
-Game 123 | P1: 16 | P2: 43 | Moves: 24
-Game 124 | P1: 2 | P2: 21 | Moves: 5
-Game 125 | P1: 8 | P2: 51 | Moves: 14
-Game 126 | P1: 10 | P2: 49 | Moves: 12
-Game 127 | P1: 16 | P2: 48 | Moves: 10
-Game 128 | P1: 20 | P2: 47 | Moves: 16
-Game 129 | P1: 6 | P2: 56 | Moves: 12
-Game 130 | P1: 34 | P2: 32 | Moves: 53
-Game 131 | P1: 22 | P2: 42 | Moves: 14
-Game 132 | P1: 6 | P2: 56 | Moves: 10
-Game 133 | P1: 0 | P2: 39 | Moves: 8
-Game 134 | P1: 3 | P2: 61 | Moves: 20
-Game 135 | P1: 13 | P2: 48 | Moves: 12
-Game 136 | P1: 6 | P2: 64 | Moves: 6
-Game 137 | P1: 0 | P2: 70 | Moves: 6
-Game 138 | P1: 3 | P2: 53 | Moves: 6
-Game 139 | P1: 28 | P2: 37 | Moves: 10
-Game 140 | P1: 43 | P2: 17 | Moves: 11
-Game 141 | P1: 0 | P2: 62 | Moves: 10
-Game 142 | P1: 0 | P2: 54 | Moves: 10
-Game 143 | P1: 30 | P2: 35 | Moves: 14
-Game 144 | P1: 17 | P2: 42 | Moves: 28
-Game 145 | P1: 15 | P2: 44 | Moves: 14
-Game 146 | P1: 8 | P2: 48 | Moves: 18
-Game 147 | P1: 8 | P2: 56 | Moves: 16
-Game 148 | P1: 17 | P2: 47 | Moves: 8
-Game 149 | P1: 29 | P2: 39 | Moves: 13
-Game 150 | P1: 22 | P2: 46 | Moves: 16
-Game 151 | P1: 10 | P2: 42 | Moves: 12
-Game 152 | P1: 1 | P2: 46 | Moves: 8
-Game 153 | P1: 24 | P2: 43 | Moves: 12
-Game 154 | P1: 15 | P2: 45 | Moves: 10
-Game 155 | P1: 6 | P2: 55 | Moves: 10
-Game 156 | P1: 1 | P2: 41 | Moves: 8
-Game 157 | P1: 44 | P2: 21 | Moves: 9
-Game 158 | P1: 6 | P2: 64 | Moves: 6
-Game 159 | P1: 11 | P2: 54 | Moves: 20
-Game 160 | P1: 32 | P2: 35 | Moves: 12
-Game 161 | P1: 15 | P2: 55 | Moves: 8
-Game 162 | P1: 10 | P2: 48 | Moves: 14
-Game 163 | P1: 1 | P2: 44 | Moves: 8
-Game 164 | P1: 15 | P2: 48 | Moves: 10
-Game 165 | P1: 0 | P2: 70 | Moves: 6
-Game 166 | P1: 33 | P2: 30 | Moves: 36
-Game 167 | P1: 3 | P2: 54 | Moves: 8
-Game 168 | P1: 28 | P2: 38 | Moves: 16
-Game 169 | P1: 23 | P2: 46 | Moves: 8
-Game 170 | P1: 21 | P2: 41 | Moves: 22
-Game 171 | P1: 8 | P2: 43 | Moves: 16
-Game 172 | P1: 1 | P2: 62 | Moves: 8
-Game 173 | P1: 48 | P2: 19 | Moves: 11
-Game 174 | P1: 20 | P2: 44 | Moves: 20
-Game 175 | P1: 13 | P2: 44 | Moves: 48
-Game 176 | P1: 12 | P2: 55 | Moves: 26
-Game 177 | P1: 11 | P2: 54 | Moves: 18
-Game 178 | P1: 24 | P2: 41 | Moves: 24
-Game 179 | P1: 6 | P2: 55 | Moves: 14
-Game 180 | P1: 56 | P2: 10 | Moves: 7
-Game 181 | P1: 22 | P2: 41 | Moves: 38
-Game 182 | P1: 30 | P2: 34 | Moves: 14
-Game 183 | P1: 10 | P2: 45 | Moves: 8
-Game 184 | P1: 38 | P2: 28 | Moves: 14
-Game 185 | P1: 25 | P2: 31 | Moves: 8
-Game 186 | P1: 20 | P2: 41 | Moves: 12
-Game 187 | P1: 6 | P2: 43 | Moves: 10
-Game 188 | P1: 15 | P2: 45 | Moves: 52
-Game 189 | P1: 11 | P2: 54 | Moves: 14
-Game 190 | P1: 0 | P2: 44 | Moves: 10
-Game 191 | P1: 19 | P2: 41 | Moves: 22
-Game 192 | P1: 26 | P2: 41 | Moves: 22
-Game 193 | P1: 4 | P2: 55 | Moves: 16
-Game 194 | P1: 1 | P2: 56 | Moves: 10
-Game 195 | P1: 2 | P2: 22 | Moves: 6
-Game 196 | P1: 11 | P2: 45 | Moves: 66
-Game 197 | P1: 7 | P2: 41 | Moves: 8
-Game 198 | P1: 1 | P2: 62 | Moves: 14
-Game 199 | P1: 6 | P2: 55 | Moves: 10
-Game 200 | P1: 7 | P2: 42 | Moves: 8
-Game 201 | P1: 23 | P2: 44 | Moves: 18
-Game 202 | P1: 6 | P2: 58 | Moves: 6
-Game 203 | P1: 9 | P2: 50 | Moves: 12
-Game 204 | P1: 19 | P2: 42 | Moves: 20
-Game 205 | P1: 22 | P2: 42 | Moves: 20
-Game 206 | P1: 1 | P2: 44 | Moves: 8
-Game 207 | P1: 7 | P2: 52 | Moves: 12
-Game 208 | P1: 0 | P2: 59 | Moves: 14
-Game 209 | P1: 6 | P2: 47 | Moves: 10
-Game 210 | P1: 4 | P2: 59 | Moves: 16
-Game 211 | P1: 30 | P2: 31 | Moves: 10
-Game 212 | P1: 4 | P2: 43 | Moves: 12
-Game 213 | P1: 22 | P2: 43 | Moves: 22
-Game 214 | P1: 9 | P2: 52 | Moves: 14
-Game 215 | P1: 20 | P2: 41 | Moves: 24
-Game 216 | P1: 13 | P2: 49 | Moves: 8
-Game 217 | P1: 24 | P2: 39 | Moves: 15
-Game 218 | P1: 20 | P2: 41 | Moves: 14
-Game 219 | P1: 11 | P2: 48 | Moves: 12
-Game 220 | P1: 15 | P2: 48 | Moves: 12
-Game 221 | P1: 4 | P2: 41 | Moves: 14
-Game 222 | P1: 3 | P2: 60 | Moves: 14
-Game 223 | P1: 23 | P2: 40 | Moves: 14
-Game 224 | P1: 1 | P2: 41 | Moves: 10
-Game 225 | P1: 22 | P2: 39 | Moves: 12
-Game 226 | P1: 24 | P2: 41 | Moves: 28
-Game 227 | P1: 17 | P2: 49 | Moves: 14
-Game 228 | P1: 11 | P2: 50 | Moves: 12
-Game 229 | P1: 10 | P2: 46 | Moves: 8
-Game 230 | P1: 18 | P2: 40 | Moves: 10
-Game 231 | P1: 17 | P2: 42 | Moves: 12
-Game 232 | P1: 22 | P2: 41 | Moves: 20
-Game 233 | P1: 5 | P2: 54 | Moves: 8
-Game 234 | P1: 0 | P2: 70 | Moves: 6
-Game 235 | P1: 13 | P2: 41 | Moves: 6
-Game 236 | P1: 3 | P2: 58 | Moves: 14
-Game 237 | P1: 10 | P2: 46 | Moves: 10
-Game 238 | P1: 8 | P2: 53 | Moves: 10
-Game 239 | P1: 6 | P2: 41 | Moves: 10
-Game 240 | P1: 5 | P2: 45 | Moves: 18
-Game 241 | P1: 4 | P2: 36 | Moves: 17
-Game 242 | P1: 20 | P2: 41 | Moves: 66
-Game 243 | P1: 60 | P2: 10 | Moves: 5
-Game 244 | P1: 22 | P2: 42 | Moves: 48
-Game 245 | P1: 26 | P2: 42 | Moves: 36
-Game 246 | P1: 42 | P2: 20 | Moves: 9
-Game 247 | P1: 2 | P2: 44 | Moves: 12
-Game 248 | P1: 4 | P2: 40 | Moves: 11
-Game 249 | P1: 18 | P2: 41 | Moves: 16
-Game 250 | P1: 19 | P2: 42 | Moves: 8
-Game 251 | P1: 30 | P2: 32 | Moves: 12
-Game 252 | P1: 16 | P2: 48 | Moves: 8
-Game 253 | P1: 9 | P2: 50 | Moves: 12
-Game 254 | P1: 41 | P2: 22 | Moves: 17
-Game 255 | P1: 18 | P2: 48 | Moves: 20
-Game 256 | P1: 6 | P2: 43 | Moves: 12
-Game 257 | P1: 22 | P2: 41 | Moves: 14
-Game 258 | P1: 19 | P2: 46 | Moves: 12
-Game 259 | P1: 0 | P2: 70 | Moves: 6
-Game 260 | P1: 1 | P2: 44 | Moves: 6
-Game 261 | P1: 57 | P2: 11 | Moves: 9
-Game 262 | P1: 3 | P2: 47 | Moves: 8
-Game 263 | P1: 7 | P2: 43 | Moves: 6
-Game 264 | P1: 16 | P2: 44 | Moves: 26
-Game 265 | P1: 30 | P2: 31 | Moves: 58
-Game 266 | P1: 23 | P2: 41 | Moves: 112
-Game 267 | P1: 2 | P2: 45 | Moves: 10
-Game 268 | P1: 48 | P2: 20 | Moves: 19
-Game 269 | P1: 4 | P2: 58 | Moves: 22
-Game 270 | P1: 21 | P2: 41 | Moves: 14
-Game 271 | P1: 15 | P2: 42 | Moves: 48
-Game 272 | P1: 18 | P2: 46 | Moves: 16
-Game 273 | P1: 16 | P2: 48 | Moves: 28
-Game 274 | P1: 0 | P2: 42 | Moves: 8
-Game 275 | P1: 23 | P2: 41 | Moves: 12
-Game 276 | P1: 2 | P2: 62 | Moves: 10
-Game 277 | P1: 7 | P2: 41 | Moves: 8
-Game 278 | P1: 17 | P2: 42 | Moves: 12
-Game 279 | P1: 6 | P2: 46 | Moves: 14
-Game 280 | P1: 20 | P2: 41 | Moves: 18
-Game 281 | P1: 16 | P2: 41 | Moves: 28
-Game 282 | P1: 16 | P2: 41 | Moves: 20
-Game 283 | P1: 53 | P2: 12 | Moves: 7
-Game 284 | P1: 14 | P2: 44 | Moves: 34
-Game 285 | P1: 34 | P2: 30 | Moves: 10
-Game 286 | P1: 23 | P2: 42 | Moves: 20
-Game 287 | P1: 16 | P2: 48 | Moves: 10
-Game 288 | P1: 4 | P2: 59 | Moves: 18
-Game 289 | P1: 6 | P2: 47 | Moves: 10
-Game 290 | P1: 14 | P2: 44 | Moves: 32
-Game 291 | P1: 8 | P2: 56 | Moves: 10
-Game 292 | P1: 20 | P2: 43 | Moves: 10
-Game 293 | P1: 0 | P2: 45 | Moves: 8
-Game 294 | P1: 3 | P2: 41 | Moves: 8
-Game 295 | P1: 2 | P2: 52 | Moves: 8
-Game 296 | P1: 14 | P2: 52 | Moves: 16
-Game 297 | P1: 36 | P2: 32 | Moves: 18
-Game 298 | P1: 42 | P2: 28 | Moves: 37
-Game 299 | P1: 0 | P2: 52 | Moves: 8
-Game 300 | P1: 7 | P2: 48 | Moves: 12
-Game 301 | P1: 7 | P2: 48 | Moves: 14
-Game 302 | P1: 8 | P2: 48 | Moves: 12
-Game 303 | P1: 10 | P2: 46 | Moves: 10
-Game 304 | P1: 19 | P2: 46 | Moves: 12
-Game 305 | P1: 15 | P2: 42 | Moves: 72
-Game 306 | P1: 3 | P2: 54 | Moves: 12
-Game 307 | P1: 25 | P2: 28 | Moves: 8
-Game 308 | P1: 5 | P2: 51 | Moves: 12
-Game 309 | P1: 10 | P2: 47 | Moves: 10
-Game 310 | P1: 7 | P2: 41 | Moves: 8
-Game 311 | P1: 26 | P2: 39 | Moves: 22
-Game 312 | P1: 42 | P2: 18 | Moves: 15
-Game 313 | P1: 44 | P2: 20 | Moves: 11
-Game 314 | P1: 18 | P2: 43 | Moves: 54
-Game 315 | P1: 48 | P2: 10 | Moves: 7
-Game 316 | P1: 17 | P2: 47 | Moves: 8
-Game 317 | P1: 3 | P2: 58 | Moves: 20
-Game 318 | P1: 20 | P2: 41 | Moves: 36
-Game 319 | P1: 6 | P2: 55 | Moves: 10
-Game 320 | P1: 13 | P2: 45 | Moves: 16
-Game 321 | P1: 3 | P2: 54 | Moves: 8
-Game 322 | P1: 13 | P2: 46 | Moves: 10
-Game 323 | P1: 6 | P2: 41 | Moves: 10
-Game 324 | P1: 0 | P2: 17 | Moves: 7
-Game 325 | P1: 1 | P2: 62 | Moves: 10
-Game 326 | P1: 15 | P2: 44 | Moves: 8
-Game 327 | P1: 10 | P2: 46 | Moves: 8
-Game 328 | P1: 41 | P2: 19 | Moves: 13
-Game 329 | P1: 23 | P2: 42 | Moves: 16
-Game 330 | P1: 6 | P2: 59 | Moves: 14
-Game 331 | P1: 2 | P2: 43 | Moves: 10
-Game 332 | P1: 2 | P2: 45 | Moves: 10
-Game 333 | P1: 1 | P2: 44 | Moves: 12
-Game 334 | P1: 16 | P2: 46 | Moves: 26
-Game 335 | P1: 20 | P2: 43 | Moves: 52
-Game 336 | P1: 1 | P2: 48 | Moves: 10
-Game 337 | P1: 2 | P2: 44 | Moves: 14
-Game 338 | P1: 8 | P2: 56 | Moves: 14
-Game 339 | P1: 29 | P2: 35 | Moves: 13
-Game 340 | P1: 8 | P2: 54 | Moves: 14
-Game 341 | P1: 3 | P2: 40 | Moves: 18
-Game 342 | P1: 20 | P2: 38 | Moves: 10
-Game 343 | P1: 11 | P2: 50 | Moves: 14
-Game 344 | P1: 21 | P2: 42 | Moves: 16
-Game 345 | P1: 7 | P2: 60 | Moves: 16
-Game 346 | P1: 5 | P2: 52 | Moves: 10
-Game 347 | P1: 14 | P2: 46 | Moves: 22
-Game 348 | P1: 11 | P2: 53 | Moves: 14
-Game 349 | P1: 52 | P2: 9 | Moves: 23
-Game 350 | P1: 15 | P2: 52 | Moves: 6
-Game 351 | P1: 19 | P2: 42 | Moves: 66
-Game 352 | P1: 36 | P2: 33 | Moves: 9
-Game 353 | P1: 7 | P2: 46 | Moves: 8
-Game 354 | P1: 8 | P2: 51 | Moves: 12
-Game 355 | P1: 30 | P2: 34 | Moves: 10
-Game 356 | P1: 19 | P2: 40 | Moves: 10
-Game 357 | P1: 1 | P2: 54 | Moves: 12
-Game 358 | P1: 7 | P2: 43 | Moves: 6
-Game 359 | P1: 6 | P2: 57 | Moves: 6
-Game 360 | P1: 21 | P2: 46 | Moves: 10
-Game 361 | P1: 17 | P2: 41 | Moves: 12
-Game 362 | P1: 6 | P2: 42 | Moves: 10
-Game 363 | P1: 6 | P2: 60 | Moves: 18
-Game 364 | P1: 6 | P2: 43 | Moves: 8
-Game 365 | P1: 17 | P2: 44 | Moves: 16
-Game 366 | P1: 19 | P2: 46 | Moves: 18
-Game 367 | P1: 3 | P2: 67 | Moves: 8
-Game 368 | P1: 3 | P2: 67 | Moves: 16
-Game 369 | P1: 21 | P2: 42 | Moves: 10
-Game 370 | P1: 11 | P2: 55 | Moves: 12
-Game 371 | P1: 0 | P2: 64 | Moves: 8
-Game 372 | P1: 1 | P2: 43 | Moves: 20
-Game 373 | P1: 19 | P2: 42 | Moves: 10
-Game 374 | P1: 1 | P2: 59 | Moves: 14
-Game 375 | P1: 10 | P2: 60 | Moves: 6
-Game 376 | P1: 16 | P2: 54 | Moves: 8
-Game 377 | P1: 23 | P2: 47 | Moves: 54
-Game 378 | P1: 23 | P2: 43 | Moves: 14
-Game 379 | P1: 6 | P2: 61 | Moves: 6
-Game 380 | P1: 6 | P2: 64 | Moves: 8
-Game 381 | P1: 6 | P2: 46 | Moves: 10
-Game 382 | P1: 59 | P2: 11 | Moves: 7
-Game 383 | P1: 1 | P2: 41 | Moves: 12
-Game 384 | P1: 2 | P2: 57 | Moves: 20
-Game 385 | P1: 15 | P2: 52 | Moves: 16
-Game 386 | P1: 12 | P2: 49 | Moves: 18
-Game 387 | P1: 1 | P2: 41 | Moves: 8
-Game 388 | P1: 9 | P2: 55 | Moves: 8
-Game 389 | P1: 10 | P2: 57 | Moves: 20
-Game 390 | P1: 5 | P2: 52 | Moves: 10
-Game 391 | P1: 8 | P2: 51 | Moves: 12
-Game 392 | P1: 0 | P2: 67 | Moves: 20
-Game 393 | P1: 6 | P2: 59 | Moves: 12
-Game 394 | P1: 21 | P2: 31 | Moves: 10
-Game 395 | P1: 23 | P2: 42 | Moves: 10
-Game 396 | P1: 6 | P2: 58 | Moves: 6
-Game 397 | P1: 2 | P2: 21 | Moves: 5
-Game 398 | P1: 7 | P2: 56 | Moves: 16
-Game 399 | P1: 0 | P2: 70 | Moves: 6
-Game 400 | P1: 3 | P2: 59 | Moves: 16
-Game 401 | P1: 0 | P2: 70 | Moves: 6
-Game 402 | P1: 11 | P2: 48 | Moves: 14
-Game 403 | P1: 2 | P2: 21 | Moves: 5
-Game 404 | P1: 10 | P2: 55 | Moves: 18
-Game 405 | P1: 0 | P2: 55 | Moves: 6
-Game 406 | P1: 9 | P2: 57 | Moves: 14
-Game 407 | P1: 3 | P2: 47 | Moves: 10
-Game 408 | P1: 10 | P2: 43 | Moves: 10
-Game 409 | P1: 22 | P2: 44 | Moves: 28
-Game 410 | P1: 47 | P2: 20 | Moves: 9
-Game 411 | P1: 6 | P2: 58 | Moves: 8
-Game 412 | P1: 2 | P2: 21 | Moves: 5
-Game 413 | P1: 19 | P2: 44 | Moves: 50
-Game 414 | P1: 10 | P2: 45 | Moves: 8
-Game 415 | P1: 6 | P2: 52 | Moves: 8
-Game 416 | P1: 0 | P2: 45 | Moves: 14
-Game 417 | P1: 5 | P2: 63 | Moves: 12
-Game 418 | P1: 2 | P2: 21 | Moves: 5
-Game 419 | P1: 0 | P2: 41 | Moves: 16
-Game 420 | P1: 2 | P2: 21 | Moves: 5
-Game 421 | P1: 8 | P2: 55 | Moves: 10
-Game 422 | P1: 6 | P2: 58 | Moves: 8
-Game 423 | P1: 4 | P2: 44 | Moves: 8
-Game 424 | P1: 18 | P2: 34 | Moves: 8
-Game 425 | P1: 20 | P2: 46 | Moves: 12
-Game 426 | P1: 5 | P2: 60 | Moves: 12
-Game 427 | P1: 21 | P2: 41 | Moves: 50
-Game 428 | P1: 17 | P2: 53 | Moves: 24
-Game 429 | P1: 55 | P2: 7 | Moves: 11
-Game 430 | P1: 21 | P2: 41 | Moves: 16
-Game 431 | P1: 20 | P2: 41 | Moves: 12
-Game 432 | P1: 26 | P2: 40 | Moves: 13
-Game 433 | P1: 38 | P2: 27 | Moves: 15
-Game 434 | P1: 10 | P2: 60 | Moves: 10
-Game 435 | P1: 2 | P2: 52 | Moves: 12
-Game 436 | P1: 45 | P2: 21 | Moves: 11
-Game 437 | P1: 28 | P2: 26 | Moves: 13
-Game 438 | P1: 9 | P2: 41 | Moves: 14
-Game 439 | P1: 18 | P2: 45 | Moves: 24
-Game 440 | P1: 4 | P2: 66 | Moves: 8
-Game 441 | P1: 20 | P2: 43 | Moves: 42
-Game 442 | P1: 13 | P2: 41 | Moves: 6
-Game 443 | P1: 51 | P2: 15 | Moves: 7
-Game 444 | P1: 1 | P2: 16 | Moves: 9
-Game 445 | P1: 7 | P2: 59 | Moves: 14
-Game 446 | P1: 7 | P2: 52 | Moves: 10
-Game 447 | P1: 36 | P2: 31 | Moves: 14
-Game 448 | P1: 8 | P2: 53 | Moves: 10
-Game 449 | P1: 48 | P2: 14 | Moves: 9
-Game 450 | P1: 4 | P2: 48 | Moves: 10
-Game 451 | P1: 8 | P2: 41 | Moves: 8
-Game 452 | P1: 17 | P2: 45 | Moves: 14
-Game 453 | P1: 1 | P2: 41 | Moves: 10
-Game 454 | P1: 60 | P2: 10 | Moves: 5
-Game 455 | P1: 20 | P2: 43 | Moves: 18
-Game 456 | P1: 30 | P2: 38 | Moves: 19
-Game 457 | P1: 15 | P2: 52 | Moves: 6
-Game 458 | P1: 26 | P2: 41 | Moves: 18
-Game 459 | P1: 10 | P2: 57 | Moves: 16
-Game 460 | P1: 8 | P2: 45 | Moves: 10
-Game 461 | P1: 15 | P2: 44 | Moves: 10
-Game 462 | P1: 17 | P2: 42 | Moves: 10
-Game 463 | P1: 32 | P2: 34 | Moves: 11
-Game 464 | P1: 10 | P2: 51 | Moves: 16
-Game 465 | P1: 41 | P2: 23 | Moves: 17
-Game 466 | P1: 5 | P2: 59 | Moves: 10
-Game 467 | P1: 20 | P2: 42 | Moves: 22
-Game 468 | P1: 7 | P2: 44 | Moves: 8
-Game 469 | P1: 5 | P2: 41 | Moves: 10
-Game 470 | P1: 17 | P2: 41 | Moves: 30
-Game 471 | P1: 2 | P2: 21 | Moves: 5
-Game 472 | P1: 2 | P2: 41 | Moves: 14
-Game 473 | P1: 15 | P2: 36 | Moves: 8
-Game 474 | P1: 49 | P2: 15 | Moves: 13
-Game 475 | P1: 1 | P2: 57 | Moves: 18
-Game 476 | P1: 10 | P2: 60 | Moves: 8
-Game 477 | P1: 6 | P2: 54 | Moves: 8
-Game 478 | P1: 12 | P2: 55 | Moves: 20
-Game 479 | P1: 2 | P2: 49 | Moves: 12
-Game 480 | P1: 10 | P2: 57 | Moves: 14
-Game 481 | P1: 1 | P2: 60 | Moves: 14
-Game 482 | P1: 15 | P2: 55 | Moves: 76
-Game 483 | P1: 31 | P2: 37 | Moves: 15
-Game 484 | P1: 6 | P2: 58 | Moves: 6
-Game 485 | P1: 25 | P2: 23 | Moves: 8
-Game 486 | P1: 15 | P2: 50 | Moves: 12
-Game 487 | P1: 16 | P2: 43 | Moves: 10
-Game 488 | P1: 6 | P2: 43 | Moves: 12
-Game 489 | P1: 16 | P2: 45 | Moves: 12
-Game 490 | P1: 15 | P2: 47 | Moves: 6
-Game 491 | P1: 32 | P2: 29 | Moves: 10
-Game 492 | P1: 24 | P2: 42 | Moves: 12
-Game 493 | P1: 12 | P2: 54 | Moves: 12
-Game 494 | P1: 1 | P2: 18 | Moves: 11
-Game 495 | P1: 1 | P2: 44 | Moves: 6
-Game 496 | P1: 6 | P2: 44 | Moves: 8
-Game 497 | P1: 15 | P2: 48 | Moves: 14
-Game 498 | P1: 17 | P2: 44 | Moves: 16
-Game 499 | P1: 15 | P2: 45 | Moves: 8
-Game 500 | P1: 15 | P2: 47 | Moves: 6
-Game 501 | P1: 3 | P2: 57 | Moves: 10
-Game 502 | P1: 7 | P2: 61 | Moves: 12
-Game 503 | P1: 6 | P2: 59 | Moves: 20
-Game 504 | P1: 8 | P2: 52 | Moves: 14
-Game 505 | P1: 9 | P2: 51 | Moves: 14
-Game 506 | P1: 16 | P2: 42 | Moves: 10
-Game 507 | P1: 6 | P2: 58 | Moves: 8
-Game 508 | P1: 10 | P2: 54 | Moves: 14
-Game 509 | P1: 2 | P2: 67 | Moves: 12
-Game 510 | P1: 22 | P2: 44 | Moves: 12
-Game 511 | P1: 7 | P2: 45 | Moves: 8
-Game 512 | P1: 7 | P2: 59 | Moves: 8
-Game 513 | P1: 6 | P2: 57 | Moves: 10
-Game 514 | P1: 15 | P2: 44 | Moves: 12
-Game 515 | P1: 10 | P2: 55 | Moves: 16
-Game 516 | P1: 3 | P2: 56 | Moves: 10
-Game 517 | P1: 6 | P2: 54 | Moves: 10
-Game 518 | P1: 9 | P2: 50 | Moves: 10
-Game 519 | P1: 10 | P2: 42 | Moves: 12
-Game 520 | P1: 11 | P2: 55 | Moves: 16
-Game 521 | P1: 15 | P2: 52 | Moves: 6
-Game 522 | P1: 10 | P2: 42 | Moves: 16
-Game 523 | P1: 1 | P2: 44 | Moves: 6
-Game 524 | P1: 27 | P2: 42 | Moves: 10
-Game 525 | P1: 3 | P2: 54 | Moves: 8
-Game 526 | P1: 12 | P2: 47 | Moves: 10
-Game 527 | P1: 16 | P2: 42 | Moves: 26
-Game 528 | P1: 17 | P2: 50 | Moves: 18
-Game 529 | P1: 17 | P2: 41 | Moves: 32
-Game 530 | P1: 6 | P2: 44 | Moves: 10
-Game 531 | P1: 14 | P2: 42 | Moves: 46
-Game 532 | P1: 18 | P2: 41 | Moves: 28
-Game 533 | P1: 3 | P2: 42 | Moves: 8
-Game 534 | P1: 24 | P2: 41 | Moves: 24
-Game 535 | P1: 19 | P2: 44 | Moves: 26
-Game 536 | P1: 3 | P2: 53 | Moves: 6
-Game 537 | P1: 6 | P2: 61 | Moves: 6
-Game 538 | P1: 27 | P2: 38 | Moves: 13
-Game 539 | P1: 1 | P2: 41 | Moves: 8
-Game 540 | P1: 15 | P2: 47 | Moves: 28
-Game 541 | P1: 8 | P2: 51 | Moves: 12
-Game 542 | P1: 16 | P2: 43 | Moves: 12
-Game 543 | P1: 7 | P2: 52 | Moves: 10
-Game 544 | P1: 7 | P2: 51 | Moves: 12
-Game 545 | P1: 17 | P2: 48 | Moves: 44
-Game 546 | P1: 18 | P2: 41 | Moves: 50
-Game 547 | P1: 24 | P2: 42 | Moves: 18
-Game 548 | P1: 15 | P2: 52 | Moves: 6
-Game 549 | P1: 37 | P2: 32 | Moves: 11
-Game 550 | P1: 3 | P2: 63 | Moves: 12
-Game 551 | P1: 6 | P2: 45 | Moves: 12
-Game 552 | P1: 20 | P2: 45 | Moves: 58
-Game 553 | P1: 8 | P2: 55 | Moves: 12
-Game 554 | P1: 4 | P2: 66 | Moves: 20
-Game 555 | P1: 7 | P2: 54 | Moves: 10
-Game 556 | P1: 6 | P2: 53 | Moves: 12
-Game 557 | P1: 18 | P2: 47 | Moves: 10
-Game 558 | P1: 9 | P2: 50 | Moves: 12
-Game 559 | P1: 17 | P2: 41 | Moves: 20
-Game 560 | P1: 1 | P2: 61 | Moves: 16
-Game 561 | P1: 14 | P2: 44 | Moves: 18
-Game 562 | P1: 20 | P2: 41 | Moves: 16
-Game 563 | P1: 13 | P2: 50 | Moves: 12
-Game 564 | P1: 6 | P2: 52 | Moves: 12
-Game 565 | P1: 2 | P2: 50 | Moves: 10
-Game 566 | P1: 3 | P2: 47 | Moves: 8
-Game 567 | P1: 11 | P2: 57 | Moves: 10
-Game 568 | P1: 29 | P2: 27 | Moves: 8
-Game 569 | P1: 1 | P2: 42 | Moves: 10
-Game 570 | P1: 17 | P2: 41 | Moves: 22
-Game 571 | P1: 19 | P2: 41 | Moves: 20
-Game 572 | P1: 7 | P2: 56 | Moves: 12
-Game 573 | P1: 12 | P2: 54 | Moves: 12
-Game 574 | P1: 30 | P2: 33 | Moves: 14
-Game 575 | P1: 21 | P2: 42 | Moves: 10
-Game 576 | P1: 4 | P2: 42 | Moves: 12
-Game 577 | P1: 37 | P2: 30 | Moves: 15
-Game 578 | P1: 7 | P2: 42 | Moves: 12
-Game 579 | P1: 3 | P2: 52 | Moves: 8
-Game 580 | P1: 22 | P2: 45 | Moves: 20
-Game 581 | P1: 12 | P2: 55 | Moves: 10
-Game 582 | P1: 3 | P2: 61 | Moves: 14
-Game 583 | P1: 10 | P2: 53 | Moves: 14
-Game 584 | P1: 0 | P2: 70 | Moves: 6
-Game 585 | P1: 7 | P2: 60 | Moves: 20
-Game 586 | P1: 6 | P2: 49 | Moves: 12
-Game 587 | P1: 10 | P2: 60 | Moves: 10
-Game 588 | P1: 2 | P2: 44 | Moves: 10
-Game 589 | P1: 18 | P2: 41 | Moves: 32
-Game 590 | P1: 12 | P2: 47 | Moves: 12
-Game 591 | P1: 6 | P2: 48 | Moves: 8
-Game 592 | P1: 3 | P2: 42 | Moves: 10
-Game 593 | P1: 18 | P2: 42 | Moves: 26
-Game 594 | P1: 27 | P2: 37 | Moves: 34
-Game 595 | P1: 11 | P2: 49 | Moves: 10
-Game 596 | P1: 6 | P2: 43 | Moves: 8
-Game 597 | P1: 21 | P2: 43 | Moves: 100
-Game 598 | P1: 16 | P2: 48 | Moves: 8
-Game 599 | P1: 2 | P2: 61 | Moves: 12
-Game 600 | P1: 18 | P2: 41 | Moves: 24
-Game 601 | P1: 16 | P2: 48 | Moves: 10
-Game 602 | P1: 0 | P2: 39 | Moves: 8
-Game 603 | P1: 2 | P2: 57 | Moves: 10
-Game 604 | P1: 20 | P2: 45 | Moves: 44
-Game 605 | P1: 3 | P2: 59 | Moves: 16
-Game 606 | P1: 5 | P2: 55 | Moves: 12
-Game 607 | P1: 5 | P2: 54 | Moves: 8
-Game 608 | P1: 60 | P2: 10 | Moves: 5
-Game 609 | P1: 25 | P2: 39 | Moves: 10
-Game 610 | P1: 6 | P2: 45 | Moves: 10
-Game 611 | P1: 7 | P2: 58 | Moves: 10
-Game 612 | P1: 10 | P2: 50 | Moves: 10
-Game 613 | P1: 4 | P2: 51 | Moves: 12
-Game 614 | P1: 24 | P2: 46 | Moves: 10
-Game 615 | P1: 4 | P2: 66 | Moves: 8
-Game 616 | P1: 15 | P2: 46 | Moves: 14
-Game 617 | P1: 10 | P2: 52 | Moves: 10
-Game 618 | P1: 6 | P2: 58 | Moves: 14
-Game 619 | P1: 10 | P2: 54 | Moves: 10
-Game 620 | P1: 11 | P2: 50 | Moves: 24
-Game 621 | P1: 25 | P2: 42 | Moves: 14
-Game 622 | P1: 7 | P2: 43 | Moves: 6
-Game 623 | P1: 7 | P2: 43 | Moves: 12
-Game 624 | P1: 20 | P2: 45 | Moves: 48
-Game 625 | P1: 34 | P2: 36 | Moves: 29
-Game 626 | P1: 19 | P2: 41 | Moves: 40
-Game 627 | P1: 2 | P2: 61 | Moves: 20
-Game 628 | P1: 9 | P2: 50 | Moves: 14
-Game 629 | P1: 35 | P2: 33 | Moves: 10
-Game 630 | P1: 21 | P2: 44 | Moves: 56
-Game 631 | P1: 22 | P2: 41 | Moves: 16
-Game 632 | P1: 24 | P2: 46 | Moves: 18
-Game 633 | P1: 3 | P2: 53 | Moves: 6
-Game 634 | P1: 13 | P2: 53 | Moves: 16
-Game 635 | P1: 20 | P2: 32 | Moves: 12
-Game 636 | P1: 3 | P2: 57 | Moves: 20
-Game 637 | P1: 14 | P2: 42 | Moves: 112
-Game 638 | P1: 1 | P2: 47 | Moves: 12
-Game 639 | P1: 12 | P2: 48 | Moves: 12
-Game 640 | P1: 15 | P2: 52 | Moves: 6
-Game 641 | P1: 16 | P2: 41 | Moves: 34
-Game 642 | P1: 17 | P2: 44 | Moves: 40
-Game 643 | P1: 15 | P2: 51 | Moves: 10
-Game 644 | P1: 18 | P2: 42 | Moves: 22
-Game 645 | P1: 21 | P2: 43 | Moves: 12
-Game 646 | P1: 16 | P2: 51 | Moves: 18
-Game 647 | P1: 3 | P2: 41 | Moves: 12
-Game 648 | P1: 15 | P2: 52 | Moves: 6
-Game 649 | P1: 12 | P2: 49 | Moves: 14
-Game 650 | P1: 10 | P2: 60 | Moves: 12
-Game 651 | P1: 15 | P2: 52 | Moves: 6
-Game 652 | P1: 7 | P2: 51 | Moves: 12
-Game 653 | P1: 6 | P2: 41 | Moves: 10
-Game 654 | P1: 10 | P2: 48 | Moves: 16
-Game 655 | P1: 29 | P2: 27 | Moves: 8
-Game 656 | P1: 15 | P2: 52 | Moves: 6
-Game 657 | P1: 2 | P2: 50 | Moves: 10
-Game 658 | P1: 20 | P2: 45 | Moves: 134
-Game 659 | P1: 20 | P2: 44 | Moves: 38
-Game 660 | P1: 22 | P2: 43 | Moves: 46
-Game 661 | P1: 47 | P2: 18 | Moves: 15
-Game 662 | P1: 6 | P2: 58 | Moves: 8
-Game 663 | P1: 26 | P2: 42 | Moves: 10
-Game 664 | P1: 8 | P2: 41 | Moves: 16
-Game 665 | P1: 2 | P2: 21 | Moves: 5
-Game 666 | P1: 15 | P2: 45 | Moves: 8
-Game 667 | P1: 2 | P2: 42 | Moves: 8
-Game 668 | P1: 3 | P2: 54 | Moves: 8
-Game 669 | P1: 18 | P2: 44 | Moves: 12
-Game 670 | P1: 11 | P2: 54 | Moves: 18
-Game 671 | P1: 2 | P2: 55 | Moves: 22
-Game 672 | P1: 1 | P2: 41 | Moves: 8
-Game 673 | P1: 2 | P2: 44 | Moves: 10
-Game 674 | P1: 9 | P2: 43 | Moves: 8
-Game 675 | P1: 16 | P2: 47 | Moves: 8
-Game 676 | P1: 20 | P2: 45 | Moves: 12
-Game 677 | P1: 9 | P2: 41 | Moves: 12
-Game 678 | P1: 15 | P2: 51 | Moves: 8
-Game 679 | P1: 16 | P2: 47 | Moves: 12
-Game 680 | P1: 19 | P2: 43 | Moves: 90
-Game 681 | P1: 8 | P2: 41 | Moves: 12
-Game 682 | P1: 2 | P2: 41 | Moves: 14
-Game 683 | P1: 8 | P2: 58 | Moves: 8
-Game 684 | P1: 26 | P2: 42 | Moves: 10
-Game 685 | P1: 12 | P2: 41 | Moves: 12
-Game 686 | P1: 17 | P2: 52 | Moves: 8
-Game 687 | P1: 15 | P2: 43 | Moves: 52
-Game 688 | P1: 17 | P2: 47 | Moves: 22
-Game 689 | P1: 3 | P2: 54 | Moves: 8
-Game 690 | P1: 6 | P2: 46 | Moves: 10
-Game 691 | P1: 6 | P2: 49 | Moves: 10
-Game 692 | P1: 12 | P2: 48 | Moves: 12
-Game 693 | P1: 21 | P2: 35 | Moves: 8
-Game 694 | P1: 6 | P2: 44 | Moves: 12
-Game 695 | P1: 1 | P2: 44 | Moves: 14
-Game 696 | P1: 21 | P2: 41 | Moves: 6
-Game 697 | P1: 27 | P2: 36 | Moves: 30
-Game 698 | P1: 2 | P2: 54 | Moves: 10
-Game 699 | P1: 7 | P2: 45 | Moves: 8
-Game 700 | P1: 5 | P2: 54 | Moves: 8
-Game 701 | P1: 6 | P2: 48 | Moves: 8
-Game 702 | P1: 15 | P2: 44 | Moves: 8
-Game 703 | P1: 0 | P2: 46 | Moves: 8
-Game 704 | P1: 18 | P2: 40 | Moves: 10
-Game 705 | P1: 6 | P2: 46 | Moves: 14
-Game 706 | P1: 15 | P2: 41 | Moves: 8
-Game 707 | P1: 6 | P2: 58 | Moves: 6
-Game 708 | P1: 16 | P2: 42 | Moves: 46
-Game 709 | P1: 3 | P2: 53 | Moves: 14
-Game 710 | P1: 17 | P2: 52 | Moves: 8
-Game 711 | P1: 8 | P2: 52 | Moves: 14
-Game 712 | P1: 16 | P2: 51 | Moves: 24
-Game 713 | P1: 21 | P2: 45 | Moves: 10
-Game 714 | P1: 28 | P2: 40 | Moves: 31
-Game 715 | P1: 1 | P2: 41 | Moves: 16
-Game 716 | P1: 16 | P2: 41 | Moves: 30
-Game 717 | P1: 11 | P2: 43 | Moves: 10
-Game 718 | P1: 6 | P2: 57 | Moves: 12
-Game 719 | P1: 15 | P2: 44 | Moves: 8
-Game 720 | P1: 1 | P2: 48 | Moves: 8
-Game 721 | P1: 0 | P2: 41 | Moves: 8
-Game 722 | P1: 8 | P2: 53 | Moves: 8
-Game 723 | P1: 1 | P2: 41 | Moves: 10
-Game 724 | P1: 41 | P2: 15 | Moves: 17
-Game 725 | P1: 15 | P2: 51 | Moves: 10
-Game 726 | P1: 16 | P2: 49 | Moves: 24
-Game 727 | P1: 6 | P2: 61 | Moves: 6
-Game 728 | P1: 15 | P2: 52 | Moves: 22
-Game 729 | P1: 20 | P2: 44 | Moves: 14
-Game 730 | P1: 34 | P2: 29 | Moves: 13
-Game 731 | P1: 22 | P2: 39 | Moves: 12
-Game 732 | P1: 0 | P2: 39 | Moves: 8
-Game 733 | P1: 12 | P2: 49 | Moves: 34
-Game 734 | P1: 3 | P2: 41 | Moves: 8
-Game 735 | P1: 1 | P2: 41 | Moves: 8
-Game 736 | P1: 21 | P2: 46 | Moves: 14
-Game 737 | P1: 31 | P2: 37 | Moves: 13
-Game 738 | P1: 15 | P2: 52 | Moves: 6
-Game 739 | P1: 25 | P2: 42 | Moves: 38
-Game 740 | P1: 20 | P2: 37 | Moves: 8
-Game 741 | P1: 12 | P2: 58 | Moves: 10
-Game 742 | P1: 38 | P2: 30 | Moves: 18
-Game 743 | P1: 9 | P2: 55 | Moves: 16
-Game 744 | P1: 22 | P2: 48 | Moves: 116
-Game 745 | P1: 12 | P2: 58 | Moves: 18
-Game 746 | P1: 2 | P2: 61 | Moves: 10
-Game 747 | P1: 22 | P2: 43 | Moves: 26
-Game 748 | P1: 34 | P2: 32 | Moves: 44
-Game 749 | P1: 8 | P2: 53 | Moves: 8
-Game 750 | P1: 15 | P2: 44 | Moves: 8
-Game 751 | P1: 24 | P2: 42 | Moves: 36
-Game 752 | P1: 7 | P2: 58 | Moves: 24
-Game 753 | P1: 4 | P2: 48 | Moves: 10
-Game 754 | P1: 22 | P2: 45 | Moves: 14
-Game 755 | P1: 6 | P2: 53 | Moves: 8
-Game 756 | P1: 21 | P2: 42 | Moves: 14
-Game 757 | P1: 17 | P2: 41 | Moves: 14
-Game 758 | P1: 23 | P2: 41 | Moves: 26
-Game 759 | P1: 0 | P2: 43 | Moves: 10
-Game 760 | P1: 8 | P2: 49 | Moves: 10
-Game 761 | P1: 12 | P2: 45 | Moves: 8
-Game 762 | P1: 13 | P2: 47 | Moves: 12
-Game 763 | P1: 4 | P2: 58 | Moves: 14
-Game 764 | P1: 7 | P2: 55 | Moves: 12
-Game 765 | P1: 23 | P2: 41 | Moves: 22
-Game 766 | P1: 21 | P2: 42 | Moves: 36
-Game 767 | P1: 7 | P2: 43 | Moves: 6
-Game 768 | P1: 18 | P2: 42 | Moves: 26
-Game 769 | P1: 6 | P2: 64 | Moves: 6
-Game 770 | P1: 17 | P2: 41 | Moves: 10
-Game 771 | P1: 23 | P2: 41 | Moves: 32
-Game 772 | P1: 6 | P2: 64 | Moves: 6
-Game 773 | P1: 15 | P2: 46 | Moves: 8
-Game 774 | P1: 41 | P2: 23 | Moves: 15
-Game 775 | P1: 60 | P2: 10 | Moves: 5
-Game 776 | P1: 10 | P2: 48 | Moves: 14
-Game 777 | P1: 15 | P2: 44 | Moves: 18
-Game 778 | P1: 10 | P2: 60 | Moves: 10
-Game 779 | P1: 1 | P2: 58 | Moves: 14
-Game 780 | P1: 2 | P2: 53 | Moves: 14
-Game 781 | P1: 1 | P2: 44 | Moves: 6
-Game 782 | P1: 21 | P2: 43 | Moves: 32
-Game 783 | P1: 9 | P2: 55 | Moves: 10
-Game 784 | P1: 13 | P2: 44 | Moves: 12
-Game 785 | P1: 7 | P2: 49 | Moves: 12
-Game 786 | P1: 18 | P2: 41 | Moves: 32
-Game 787 | P1: 0 | P2: 70 | Moves: 10
-Game 788 | P1: 7 | P2: 49 | Moves: 14
-Game 789 | P1: 15 | P2: 52 | Moves: 6
-Game 790 | P1: 2 | P2: 21 | Moves: 5
-Game 791 | P1: 2 | P2: 52 | Moves: 12
-Game 792 | P1: 6 | P2: 57 | Moves: 6
-Game 793 | P1: 27 | P2: 40 | Moves: 20
-Game 794 | P1: 0 | P2: 70 | Moves: 6
-Game 795 | P1: 19 | P2: 46 | Moves: 16
-Game 796 | P1: 0 | P2: 43 | Moves: 10
-Game 797 | P1: 4 | P2: 58 | Moves: 14
-Game 798 | P1: 21 | P2: 41 | Moves: 6
-Game 799 | P1: 12 | P2: 45 | Moves: 128
-Game 800 | P1: 3 | P2: 54 | Moves: 8
-Game 801 | P1: 8 | P2: 41 | Moves: 8
-Game 802 | P1: 18 | P2: 48 | Moves: 8
-Game 803 | P1: 45 | P2: 17 | Moves: 11
-Game 804 | P1: 19 | P2: 45 | Moves: 50
-Game 805 | P1: 2 | P2: 57 | Moves: 18
-Game 806 | P1: 15 | P2: 44 | Moves: 8
-Game 807 | P1: 5 | P2: 43 | Moves: 12
-Game 808 | P1: 4 | P2: 55 | Moves: 12
-Game 809 | P1: 0 | P2: 49 | Moves: 8
-Game 810 | P1: 0 | P2: 42 | Moves: 8
-Game 811 | P1: 15 | P2: 47 | Moves: 18
-Game 812 | P1: 23 | P2: 46 | Moves: 8
-Game 813 | P1: 18 | P2: 43 | Moves: 42
-Game 814 | P1: 10 | P2: 56 | Moves: 12
-Game 815 | P1: 16 | P2: 42 | Moves: 48
-Game 816 | P1: 16 | P2: 42 | Moves: 34
-Game 817 | P1: 17 | P2: 44 | Moves: 10
-Game 818 | P1: 6 | P2: 49 | Moves: 10
-Game 819 | P1: 17 | P2: 36 | Moves: 10
-Game 820 | P1: 22 | P2: 42 | Moves: 34
-Game 821 | P1: 3 | P2: 67 | Moves: 8
-Game 822 | P1: 4 | P2: 53 | Moves: 10
-Game 823 | P1: 5 | P2: 50 | Moves: 14
-Game 824 | P1: 6 | P2: 57 | Moves: 10
-Game 825 | P1: 6 | P2: 64 | Moves: 6
-Game 826 | P1: 6 | P2: 53 | Moves: 8
-Game 827 | P1: 6 | P2: 60 | Moves: 14
-Game 828 | P1: 1 | P2: 41 | Moves: 10
-Game 829 | P1: 3 | P2: 53 | Moves: 6
-Game 830 | P1: 6 | P2: 49 | Moves: 10
-Game 831 | P1: 1 | P2: 58 | Moves: 16
-Game 832 | P1: 4 | P2: 58 | Moves: 18
-Game 833 | P1: 22 | P2: 43 | Moves: 40
-Game 834 | P1: 15 | P2: 52 | Moves: 6
-Game 835 | P1: 1 | P2: 41 | Moves: 8
-Game 836 | P1: 4 | P2: 57 | Moves: 16
-Game 837 | P1: 7 | P2: 43 | Moves: 6
-Game 838 | P1: 6 | P2: 64 | Moves: 6
-Game 839 | P1: 10 | P2: 56 | Moves: 26
-Game 840 | P1: 48 | P2: 16 | Moves: 15
-Game 841 | P1: 5 | P2: 53 | Moves: 14
-Game 842 | P1: 4 | P2: 43 | Moves: 10
-Game 843 | P1: 24 | P2: 42 | Moves: 30
-Game 844 | P1: 24 | P2: 40 | Moves: 12
-Game 845 | P1: 7 | P2: 45 | Moves: 10
-Game 846 | P1: 12 | P2: 50 | Moves: 38
-Game 847 | P1: 9 | P2: 53 | Moves: 18
-Game 848 | P1: 11 | P2: 59 | Moves: 18
-Game 849 | P1: 15 | P2: 45 | Moves: 50
-Game 850 | P1: 28 | P2: 42 | Moves: 26
-Game 851 | P1: 7 | P2: 49 | Moves: 10
-Game 852 | P1: 22 | P2: 42 | Moves: 10
-Game 853 | P1: 7 | P2: 42 | Moves: 8
-Game 854 | P1: 13 | P2: 47 | Moves: 62
-Game 855 | P1: 60 | P2: 10 | Moves: 5
-Game 856 | P1: 6 | P2: 51 | Moves: 10
-Game 857 | P1: 41 | P2: 6 | Moves: 7
-Game 858 | P1: 50 | P2: 5 | Moves: 7
-Game 859 | P1: 13 | P2: 41 | Moves: 6
-Game 860 | P1: 8 | P2: 53 | Moves: 8
-Game 861 | P1: 4 | P2: 40 | Moves: 12
-Game 862 | P1: 54 | P2: 16 | Moves: 7
-Game 863 | P1: 5 | P2: 45 | Moves: 10
-Game 864 | P1: 1 | P2: 46 | Moves: 10
-Game 865 | P1: 8 | P2: 53 | Moves: 20
-Game 866 | P1: 15 | P2: 47 | Moves: 6
-Game 867 | P1: 45 | P2: 16 | Moves: 17
-Game 868 | P1: 18 | P2: 43 | Moves: 32
-Game 869 | P1: 6 | P2: 61 | Moves: 6
-Game 870 | P1: 3 | P2: 53 | Moves: 6
-Game 871 | P1: 14 | P2: 49 | Moves: 12
-Game 872 | P1: 9 | P2: 54 | Moves: 10
-Game 873 | P1: 7 | P2: 51 | Moves: 12
-Game 874 | P1: 3 | P2: 54 | Moves: 8
-Game 875 | P1: 33 | P2: 31 | Moves: 15
-Game 876 | P1: 15 | P2: 47 | Moves: 6
-Game 877 | P1: 60 | P2: 10 | Moves: 5
-Game 878 | P1: 8 | P2: 52 | Moves: 14
-Game 879 | P1: 12 | P2: 52 | Moves: 20
-Game 880 | P1: 6 | P2: 42 | Moves: 10
-Game 881 | P1: 23 | P2: 42 | Moves: 76
-Game 882 | P1: 0 | P2: 46 | Moves: 8
-Game 883 | P1: 1 | P2: 42 | Moves: 12
-Game 884 | P1: 25 | P2: 37 | Moves: 15
-Game 885 | P1: 3 | P2: 54 | Moves: 14
-Game 886 | P1: 43 | P2: 17 | Moves: 25
-Game 887 | P1: 7 | P2: 42 | Moves: 10
-Game 888 | P1: 17 | P2: 44 | Moves: 14
-Game 889 | P1: 2 | P2: 21 | Moves: 5
-Game 890 | P1: 5 | P2: 58 | Moves: 8
-Game 891 | P1: 21 | P2: 42 | Moves: 10
-Game 892 | P1: 17 | P2: 51 | Moves: 22
-Game 893 | P1: 7 | P2: 43 | Moves: 6
-Game 894 | P1: 6 | P2: 61 | Moves: 6
-Game 895 | P1: 2 | P2: 56 | Moves: 16
-Game 896 | P1: 0 | P2: 70 | Moves: 6
-Game 897 | P1: 1 | P2: 41 | Moves: 10
-Game 898 | P1: 6 | P2: 43 | Moves: 12
-Game 899 | P1: 30 | P2: 31 | Moves: 19
-Game 900 | P1: 48 | P2: 10 | Moves: 7
-Game 901 | P1: 4 | P2: 54 | Moves: 18
-Game 902 | P1: 0 | P2: 65 | Moves: 10
-Game 903 | P1: 20 | P2: 42 | Moves: 50
-Game 904 | P1: 27 | P2: 41 | Moves: 16
-Game 905 | P1: 1 | P2: 44 | Moves: 6
-Game 906 | P1: 6 | P2: 56 | Moves: 14
-Game 907 | P1: 5 | P2: 58 | Moves: 14
-Game 908 | P1: 16 | P2: 42 | Moves: 12
-Game 909 | P1: 1 | P2: 41 | Moves: 8
-Game 910 | P1: 2 | P2: 21 | Moves: 5
-Game 911 | P1: 1 | P2: 69 | Moves: 18
-Game 912 | P1: 12 | P2: 45 | Moves: 30
-Game 913 | P1: 14 | P2: 56 | Moves: 14
-Game 914 | P1: 21 | P2: 41 | Moves: 16
-Game 915 | P1: 12 | P2: 56 | Moves: 14
-Game 916 | P1: 6 | P2: 53 | Moves: 14
-Game 917 | P1: 56 | P2: 10 | Moves: 7
-Game 918 | P1: 6 | P2: 64 | Moves: 6
-Game 919 | P1: 60 | P2: 10 | Moves: 5
-Game 920 | P1: 6 | P2: 64 | Moves: 10
-Game 921 | P1: 4 | P2: 46 | Moves: 12
-Game 922 | P1: 0 | P2: 58 | Moves: 22
-Game 923 | P1: 15 | P2: 52 | Moves: 6
-Game 924 | P1: 48 | P2: 16 | Moves: 17
-Game 925 | P1: 6 | P2: 60 | Moves: 16
-Game 926 | P1: 9 | P2: 55 | Moves: 16
-Game 927 | P1: 15 | P2: 44 | Moves: 8
-Game 928 | P1: 17 | P2: 44 | Moves: 16
-Game 929 | P1: 2 | P2: 48 | Moves: 14
-Game 930 | P1: 14 | P2: 45 | Moves: 18
-Game 931 | P1: 7 | P2: 52 | Moves: 12
-Game 932 | P1: 8 | P2: 53 | Moves: 8
-Game 933 | P1: 9 | P2: 58 | Moves: 14
-Game 934 | P1: 43 | P2: 15 | Moves: 9
-Game 935 | P1: 1 | P2: 48 | Moves: 14
-Game 936 | P1: 12 | P2: 44 | Moves: 26
-Game 937 | P1: 13 | P2: 46 | Moves: 10
-Game 938 | P1: 4 | P2: 57 | Moves: 14
-Game 939 | P1: 6 | P2: 44 | Moves: 12
-Game 940 | P1: 43 | P2: 19 | Moves: 13
-Game 941 | P1: 4 | P2: 49 | Moves: 8
-Game 942 | P1: 43 | P2: 20 | Moves: 11
-Game 943 | P1: 15 | P2: 52 | Moves: 6
-Game 944 | P1: 7 | P2: 63 | Moves: 14
-Game 945 | P1: 54 | P2: 16 | Moves: 7
-Game 946 | P1: 4 | P2: 44 | Moves: 8
-Game 947 | P1: 20 | P2: 43 | Moves: 26
-Game 948 | P1: 12 | P2: 53 | Moves: 18
-Game 949 | P1: 14 | P2: 50 | Moves: 14
-Game 950 | P1: 23 | P2: 42 | Moves: 44
-Game 951 | P1: 2 | P2: 43 | Moves: 12
-Game 952 | P1: 11 | P2: 51 | Moves: 18
-Game 953 | P1: 17 | P2: 47 | Moves: 38
-Game 954 | P1: 19 | P2: 42 | Moves: 10
-Game 955 | P1: 3 | P2: 39 | Moves: 8
-Game 956 | P1: 23 | P2: 43 | Moves: 16
-Game 957 | P1: 17 | P2: 34 | Moves: 11
-Game 958 | P1: 10 | P2: 55 | Moves: 14
-Game 959 | P1: 0 | P2: 41 | Moves: 10
-Game 960 | P1: 10 | P2: 46 | Moves: 8
-Game 961 | P1: 17 | P2: 52 | Moves: 8
-Game 962 | P1: 7 | P2: 43 | Moves: 20
-Game 963 | P1: 6 | P2: 47 | Moves: 12
-Game 964 | P1: 37 | P2: 32 | Moves: 11
-Game 965 | P1: 28 | P2: 37 | Moves: 62
-Game 966 | P1: 23 | P2: 42 | Moves: 10
-Game 967 | P1: 9 | P2: 53 | Moves: 12
-Game 968 | P1: 4 | P2: 41 | Moves: 14
-Game 969 | P1: 7 | P2: 52 | Moves: 10
-Game 970 | P1: 15 | P2: 49 | Moves: 12
-Game 971 | P1: 38 | P2: 29 | Moves: 47
-Game 972 | P1: 6 | P2: 58 | Moves: 8
-Game 973 | P1: 5 | P2: 57 | Moves: 18
-Game 974 | P1: 7 | P2: 49 | Moves: 12
-Game 975 | P1: 13 | P2: 48 | Moves: 30
-Game 976 | P1: 0 | P2: 55 | Moves: 6
-Game 977 | P1: 42 | P2: 17 | Moves: 11
-Game 978 | P1: 6 | P2: 42 | Moves: 14
-Game 979 | P1: 11 | P2: 53 | Moves: 16
-Game 980 | P1: 15 | P2: 44 | Moves: 22
-Game 981 | P1: 2 | P2: 58 | Moves: 20
-Game 982 | P1: 21 | P2: 44 | Moves: 60
-Game 983 | P1: 29 | P2: 39 | Moves: 12
-Game 984 | P1: 21 | P2: 42 | Moves: 10
-Game 985 | P1: 2 | P2: 21 | Moves: 5
-Game 986 | P1: 9 | P2: 43 | Moves: 8
-Game 987 | P1: 18 | P2: 43 | Moves: 18
-Game 988 | P1: 23 | P2: 47 | Moves: 10
-Game 989 | P1: 18 | P2: 40 | Moves: 10
-Game 990 | P1: 45 | P2: 14 | Moves: 11
-Game 991 | P1: 10 | P2: 56 | Moves: 10
-Game 992 | P1: 11 | P2: 49 | Moves: 10
-Game 993 | P1: 11 | P2: 44 | Moves: 12
-Game 994 | P1: 7 | P2: 49 | Moves: 12
-Game 995 | P1: 19 | P2: 47 | Moves: 78
-Game 996 | P1: 8 | P2: 53 | Moves: 10
-Game 997 | P1: 17 | P2: 41 | Moves: 26
-Game 998 | P1: 13 | P2: 45 | Moves: 48
-Game 999 | P1: 18 | P2: 41 | Moves: 22
-Game 1000 | P1: 10 | P2: 50 | Moves: 14
+Game 1 | P1: 10 | P2: 50 | Moves: 20 | Time(ms): 179
+Game 2 | P1: 7 | P2: 57 | Moves: 16 | Time(ms): 165
+Game 3 | P1: 19 | P2: 47 | Moves: 20 | Time(ms): 223
+Game 4 | P1: 8 | P2: 54 | Moves: 8 | Time(ms): 77
+Game 5 | P1: 0 | P2: 47 | Moves: 12 | Time(ms): 153
+Game 6 | P1: 0 | P2: 41 | Moves: 10 | Time(ms): 153
+Game 7 | P1: 11 | P2: 55 | Moves: 8 | Time(ms): 87
+Game 8 | P1: 8 | P2: 53 | Moves: 8 | Time(ms): 88
+Game 9 | P1: 12 | P2: 54 | Moves: 20 | Time(ms): 199
+Game 10 | P1: 3 | P2: 42 | Moves: 10 | Time(ms): 132
+Game 11 | P1: 9 | P2: 55 | Moves: 16 | Time(ms): 142
+Game 12 | P1: 18 | P2: 43 | Moves: 18 | Time(ms): 131
+Game 13 | P1: 20 | P2: 45 | Moves: 12 | Time(ms): 145
+Game 14 | P1: 27 | P2: 39 | Moves: 10 | Time(ms): 105
+Game 15 | P1: 17 | P2: 41 | Moves: 12 | Time(ms): 135
+Game 16 | P1: 16 | P2: 47 | Moves: 10 | Time(ms): 69
+Game 17 | P1: 10 | P2: 46 | Moves: 10 | Time(ms): 129
+Game 18 | P1: 2 | P2: 51 | Moves: 8 | Time(ms): 93
+Game 19 | P1: 24 | P2: 31 | Moves: 10 | Time(ms): 151
+Game 20 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 107
+Game 21 | P1: 3 | P2: 56 | Moves: 18 | Time(ms): 154
+Game 22 | P1: 25 | P2: 43 | Moves: 16 | Time(ms): 89
+Game 23 | P1: 8 | P2: 44 | Moves: 10 | Time(ms): 142
+Game 24 | P1: 9 | P2: 46 | Moves: 8 | Time(ms): 121
+Game 25 | P1: 1 | P2: 52 | Moves: 10 | Time(ms): 118
+Game 26 | P1: 7 | P2: 59 | Moves: 12 | Time(ms): 139
+Game 27 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 81
+Game 28 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 151
+Game 29 | P1: 2 | P2: 51 | Moves: 10 | Time(ms): 163
+Game 30 | P1: 2 | P2: 60 | Moves: 14 | Time(ms): 87
+Game 31 | P1: 6 | P2: 42 | Moves: 14 | Time(ms): 137
+Game 32 | P1: 6 | P2: 47 | Moves: 12 | Time(ms): 143
+Game 33 | P1: 17 | P2: 49 | Moves: 12 | Time(ms): 87
+Game 34 | P1: 0 | P2: 44 | Moves: 8 | Time(ms): 118
+Game 35 | P1: 0 | P2: 28 | Moves: 8 | Time(ms): 116
+Game 36 | P1: 15 | P2: 44 | Moves: 8 | Time(ms): 111
+Game 37 | P1: 0 | P2: 28 | Moves: 8 | Time(ms): 115
+Game 38 | P1: 12 | P2: 52 | Moves: 12 | Time(ms): 120
+Game 39 | P1: 0 | P2: 56 | Moves: 12 | Time(ms): 139
+Game 40 | P1: 0 | P2: 42 | Moves: 14 | Time(ms): 139
+Game 41 | P1: 6 | P2: 53 | Moves: 8 | Time(ms): 158
+Game 42 | P1: 7 | P2: 56 | Moves: 18 | Time(ms): 121
+Game 43 | P1: 3 | P2: 47 | Moves: 8 | Time(ms): 73
+Game 44 | P1: 9 | P2: 55 | Moves: 12 | Time(ms): 118
+Game 45 | P1: 13 | P2: 48 | Moves: 16 | Time(ms): 111
+Game 46 | P1: 6 | P2: 47 | Moves: 14 | Time(ms): 176
+Game 47 | P1: 6 | P2: 42 | Moves: 8 | Time(ms): 120
+Game 48 | P1: 10 | P2: 59 | Moves: 16 | Time(ms): 128
+Game 49 | P1: 6 | P2: 48 | Moves: 10 | Time(ms): 163
+Game 50 | P1: 24 | P2: 44 | Moves: 16 | Time(ms): 170
+Game 51 | P1: 9 | P2: 49 | Moves: 16 | Time(ms): 82
+Game 52 | P1: 33 | P2: 35 | Moves: 18 | Time(ms): 99
+Game 53 | P1: 10 | P2: 41 | Moves: 12 | Time(ms): 208
+Game 54 | P1: 15 | P2: 47 | Moves: 12 | Time(ms): 217
+Game 55 | P1: 16 | P2: 28 | Moves: 8 | Time(ms): 142
+Game 56 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 99
+Game 57 | P1: 24 | P2: 33 | Moves: 8 | Time(ms): 112
+Game 58 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 56
+Game 59 | P1: 12 | P2: 52 | Moves: 14 | Time(ms): 158
+Game 60 | P1: 1 | P2: 52 | Moves: 10 | Time(ms): 125
+Game 61 | P1: 12 | P2: 42 | Moves: 12 | Time(ms): 174
+Game 62 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 82
+Game 63 | P1: 15 | P2: 42 | Moves: 10 | Time(ms): 152
+Game 64 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 70
+Game 65 | P1: 18 | P2: 44 | Moves: 12 | Time(ms): 148
+Game 66 | P1: 11 | P2: 46 | Moves: 12 | Time(ms): 160
+Game 67 | P1: 9 | P2: 58 | Moves: 12 | Time(ms): 126
+Game 68 | P1: 29 | P2: 34 | Moves: 13 | Time(ms): 125
+Game 69 | P1: 18 | P2: 49 | Moves: 14 | Time(ms): 102
+Game 70 | P1: 3 | P2: 59 | Moves: 20 | Time(ms): 166
+Game 71 | P1: 2 | P2: 48 | Moves: 14 | Time(ms): 162
+Game 72 | P1: 1 | P2: 41 | Moves: 10 | Time(ms): 119
+Game 73 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 100
+Game 74 | P1: 15 | P2: 50 | Moves: 20 | Time(ms): 130
+Game 75 | P1: 8 | P2: 58 | Moves: 16 | Time(ms): 189
+Game 76 | P1: 0 | P2: 44 | Moves: 8 | Time(ms): 130
+Game 77 | P1: 4 | P2: 57 | Moves: 16 | Time(ms): 92
+Game 78 | P1: 5 | P2: 52 | Moves: 14 | Time(ms): 139
+Game 79 | P1: 1 | P2: 57 | Moves: 18 | Time(ms): 178
+Game 80 | P1: 7 | P2: 43 | Moves: 10 | Time(ms): 103
+Game 81 | P1: 6 | P2: 53 | Moves: 12 | Time(ms): 157
+Game 82 | P1: 14 | P2: 41 | Moves: 14 | Time(ms): 164
+Game 83 | P1: 8 | P2: 53 | Moves: 14 | Time(ms): 114
+Game 84 | P1: 12 | P2: 55 | Moves: 24 | Time(ms): 204
+Game 85 | P1: 6 | P2: 45 | Moves: 10 | Time(ms): 146
+Game 86 | P1: 4 | P2: 16 | Moves: 9 | Time(ms): 96
+Game 87 | P1: 10 | P2: 55 | Moves: 26 | Time(ms): 209
+Game 88 | P1: 10 | P2: 45 | Moves: 10 | Time(ms): 134
+Game 89 | P1: 24 | P2: 38 | Moves: 10 | Time(ms): 154
+Game 90 | P1: 18 | P2: 41 | Moves: 26 | Time(ms): 200
+Game 91 | P1: 6 | P2: 44 | Moves: 12 | Time(ms): 176
+Game 92 | P1: 9 | P2: 54 | Moves: 20 | Time(ms): 99
+Game 93 | P1: 11 | P2: 49 | Moves: 10 | Time(ms): 100
+Game 94 | P1: 10 | P2: 47 | Moves: 16 | Time(ms): 219
+Game 95 | P1: 15 | P2: 34 | Moves: 12 | Time(ms): 130
+Game 96 | P1: 3 | P2: 42 | Moves: 12 | Time(ms): 120
+Game 97 | P1: 3 | P2: 49 | Moves: 8 | Time(ms): 70
+Game 98 | P1: 7 | P2: 49 | Moves: 12 | Time(ms): 102
+Game 99 | P1: 1 | P2: 51 | Moves: 18 | Time(ms): 148
+Game 100 | P1: 8 | P2: 47 | Moves: 10 | Time(ms): 151
+Game 101 | P1: 4 | P2: 61 | Moves: 8 | Time(ms): 103
+Game 102 | P1: 12 | P2: 55 | Moves: 28 | Time(ms): 165
+Game 103 | P1: 9 | P2: 47 | Moves: 16 | Time(ms): 212
+Game 104 | P1: 2 | P2: 68 | Moves: 18 | Time(ms): 149
+Game 105 | P1: 17 | P2: 44 | Moves: 12 | Time(ms): 110
+Game 106 | P1: 7 | P2: 49 | Moves: 14 | Time(ms): 144
+Game 107 | P1: 6 | P2: 47 | Moves: 8 | Time(ms): 121
+Game 108 | P1: 1 | P2: 47 | Moves: 10 | Time(ms): 146
+Game 109 | P1: 7 | P2: 48 | Moves: 14 | Time(ms): 156
+Game 110 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 153
+Game 111 | P1: 2 | P2: 60 | Moves: 8 | Time(ms): 88
+Game 112 | P1: 15 | P2: 44 | Moves: 8 | Time(ms): 118
+Game 113 | P1: 10 | P2: 50 | Moves: 8 | Time(ms): 113
+Game 114 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 117
+Game 115 | P1: 13 | P2: 45 | Moves: 52 | Time(ms): 184
+Game 116 | P1: 13 | P2: 48 | Moves: 16 | Time(ms): 112
+Game 117 | P1: 2 | P2: 68 | Moves: 12 | Time(ms): 133
+Game 118 | P1: 12 | P2: 51 | Moves: 8 | Time(ms): 60
+Game 119 | P1: 6 | P2: 55 | Moves: 12 | Time(ms): 153
+Game 120 | P1: 21 | P2: 42 | Moves: 16 | Time(ms): 146
+Game 121 | P1: 12 | P2: 51 | Moves: 16 | Time(ms): 199
+Game 122 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 133
+Game 123 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 81
+Game 124 | P1: 17 | P2: 46 | Moves: 10 | Time(ms): 66
+Game 125 | P1: 50 | P2: 20 | Moves: 39 | Time(ms): 171
+Game 126 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 106
+Game 127 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 86
+Game 128 | P1: 12 | P2: 48 | Moves: 10 | Time(ms): 99
+Game 129 | P1: 15 | P2: 47 | Moves: 10 | Time(ms): 145
+Game 130 | P1: 3 | P2: 47 | Moves: 8 | Time(ms): 67
+Game 131 | P1: 6 | P2: 52 | Moves: 10 | Time(ms): 165
+Game 132 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 60
+Game 133 | P1: 2 | P2: 51 | Moves: 10 | Time(ms): 84
+Game 134 | P1: 26 | P2: 32 | Moves: 9 | Time(ms): 88
+Game 135 | P1: 3 | P2: 55 | Moves: 14 | Time(ms): 195
+Game 136 | P1: 9 | P2: 51 | Moves: 12 | Time(ms): 210
+Game 137 | P1: 1 | P2: 50 | Moves: 14 | Time(ms): 168
+Game 138 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 88
+Game 139 | P1: 16 | P2: 46 | Moves: 10 | Time(ms): 64
+Game 140 | P1: 1 | P2: 56 | Moves: 10 | Time(ms): 103
+Game 141 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 88
+Game 142 | P1: 11 | P2: 41 | Moves: 12 | Time(ms): 134
+Game 143 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 105
+Game 144 | P1: 0 | P2: 42 | Moves: 8 | Time(ms): 100
+Game 145 | P1: 21 | P2: 36 | Moves: 8 | Time(ms): 80
+Game 146 | P1: 2 | P2: 42 | Moves: 16 | Time(ms): 131
+Game 147 | P1: 13 | P2: 47 | Moves: 14 | Time(ms): 126
+Game 148 | P1: 0 | P2: 41 | Moves: 8 | Time(ms): 137
+Game 149 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 67
+Game 150 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 87
+Game 151 | P1: 4 | P2: 60 | Moves: 10 | Time(ms): 98
+Game 152 | P1: 5 | P2: 50 | Moves: 20 | Time(ms): 155
+Game 153 | P1: 13 | P2: 43 | Moves: 16 | Time(ms): 312
+Game 154 | P1: 7 | P2: 54 | Moves: 12 | Time(ms): 141
+Game 155 | P1: 1 | P2: 41 | Moves: 14 | Time(ms): 225
+Game 156 | P1: 0 | P2: 46 | Moves: 8 | Time(ms): 145
+Game 157 | P1: 21 | P2: 47 | Moves: 16 | Time(ms): 142
+Game 158 | P1: 0 | P2: 50 | Moves: 12 | Time(ms): 173
+Game 159 | P1: 17 | P2: 43 | Moves: 48 | Time(ms): 176
+Game 160 | P1: 12 | P2: 53 | Moves: 12 | Time(ms): 140
+Game 161 | P1: 8 | P2: 53 | Moves: 12 | Time(ms): 109
+Game 162 | P1: 10 | P2: 56 | Moves: 14 | Time(ms): 121
+Game 163 | P1: 2 | P2: 60 | Moves: 16 | Time(ms): 130
+Game 164 | P1: 2 | P2: 51 | Moves: 8 | Time(ms): 93
+Game 165 | P1: 19 | P2: 51 | Moves: 14 | Time(ms): 177
+Game 166 | P1: 3 | P2: 64 | Moves: 14 | Time(ms): 147
+Game 167 | P1: 13 | P2: 42 | Moves: 16 | Time(ms): 302
+Game 168 | P1: 8 | P2: 41 | Moves: 8 | Time(ms): 124
+Game 169 | P1: 5 | P2: 58 | Moves: 14 | Time(ms): 138
+Game 170 | P1: 8 | P2: 46 | Moves: 10 | Time(ms): 132
+Game 171 | P1: 23 | P2: 41 | Moves: 22 | Time(ms): 271
+Game 172 | P1: 3 | P2: 52 | Moves: 8 | Time(ms): 65
+Game 173 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 101
+Game 174 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 155
+Game 175 | P1: 5 | P2: 52 | Moves: 10 | Time(ms): 195
+Game 176 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 142
+Game 177 | P1: 6 | P2: 54 | Moves: 14 | Time(ms): 202
+Game 178 | P1: 8 | P2: 60 | Moves: 14 | Time(ms): 149
+Game 179 | P1: 18 | P2: 42 | Moves: 20 | Time(ms): 205
+Game 180 | P1: 7 | P2: 47 | Moves: 14 | Time(ms): 192
+Game 181 | P1: 6 | P2: 41 | Moves: 12 | Time(ms): 116
+Game 182 | P1: 11 | P2: 48 | Moves: 12 | Time(ms): 181
+Game 183 | P1: 17 | P2: 42 | Moves: 10 | Time(ms): 159
+Game 184 | P1: 20 | P2: 43 | Moves: 16 | Time(ms): 105
+Game 185 | P1: 3 | P2: 42 | Moves: 6 | Time(ms): 131
+Game 186 | P1: 2 | P2: 58 | Moves: 12 | Time(ms): 126
+Game 187 | P1: 10 | P2: 48 | Moves: 20 | Time(ms): 239
+Game 188 | P1: 3 | P2: 42 | Moves: 18 | Time(ms): 131
+Game 189 | P1: 3 | P2: 59 | Moves: 12 | Time(ms): 116
+Game 190 | P1: 7 | P2: 53 | Moves: 12 | Time(ms): 134
+Game 191 | P1: 4 | P2: 41 | Moves: 10 | Time(ms): 178
+Game 192 | P1: 1 | P2: 44 | Moves: 6 | Time(ms): 89
+Game 193 | P1: 5 | P2: 60 | Moves: 16 | Time(ms): 174
+Game 194 | P1: 6 | P2: 62 | Moves: 16 | Time(ms): 99
+Game 195 | P1: 6 | P2: 55 | Moves: 16 | Time(ms): 161
+Game 196 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 100
+Game 197 | P1: 16 | P2: 47 | Moves: 8 | Time(ms): 62
+Game 198 | P1: 3 | P2: 58 | Moves: 18 | Time(ms): 157
+Game 199 | P1: 2 | P2: 58 | Moves: 14 | Time(ms): 120
+Game 200 | P1: 2 | P2: 47 | Moves: 18 | Time(ms): 246
+Game 201 | P1: 6 | P2: 46 | Moves: 10 | Time(ms): 141
+Game 202 | P1: 2 | P2: 63 | Moves: 14 | Time(ms): 94
+Game 203 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 101
+Game 204 | P1: 6 | P2: 54 | Moves: 14 | Time(ms): 163
+Game 205 | P1: 2 | P2: 52 | Moves: 14 | Time(ms): 151
+Game 206 | P1: 10 | P2: 55 | Moves: 18 | Time(ms): 94
+Game 207 | P1: 6 | P2: 53 | Moves: 14 | Time(ms): 184
+Game 208 | P1: 7 | P2: 61 | Moves: 8 | Time(ms): 124
+Game 209 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 72
+Game 210 | P1: 0 | P2: 58 | Moves: 12 | Time(ms): 140
+Game 211 | P1: 6 | P2: 46 | Moves: 12 | Time(ms): 160
+Game 212 | P1: 3 | P2: 56 | Moves: 24 | Time(ms): 198
+Game 213 | P1: 12 | P2: 48 | Moves: 16 | Time(ms): 147
+Game 214 | P1: 1 | P2: 60 | Moves: 10 | Time(ms): 130
+Game 215 | P1: 7 | P2: 52 | Moves: 12 | Time(ms): 170
+Game 216 | P1: 7 | P2: 55 | Moves: 14 | Time(ms): 176
+Game 217 | P1: 6 | P2: 48 | Moves: 10 | Time(ms): 226
+Game 218 | P1: 2 | P2: 60 | Moves: 16 | Time(ms): 132
+Game 219 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 121
+Game 220 | P1: 6 | P2: 52 | Moves: 16 | Time(ms): 184
+Game 221 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 123
+Game 222 | P1: 11 | P2: 47 | Moves: 16 | Time(ms): 181
+Game 223 | P1: 1 | P2: 59 | Moves: 12 | Time(ms): 129
+Game 224 | P1: 16 | P2: 42 | Moves: 8 | Time(ms): 78
+Game 225 | P1: 3 | P2: 42 | Moves: 12 | Time(ms): 182
+Game 226 | P1: 6 | P2: 64 | Moves: 6 | Time(ms): 106
+Game 227 | P1: 8 | P2: 45 | Moves: 10 | Time(ms): 143
+Game 228 | P1: 11 | P2: 46 | Moves: 10 | Time(ms): 271
+Game 229 | P1: 15 | P2: 46 | Moves: 12 | Time(ms): 112
+Game 230 | P1: 1 | P2: 41 | Moves: 12 | Time(ms): 304
+Game 231 | P1: 13 | P2: 50 | Moves: 20 | Time(ms): 338
+Game 232 | P1: 1 | P2: 41 | Moves: 14 | Time(ms): 215
+Game 233 | P1: 4 | P2: 43 | Moves: 14 | Time(ms): 298
+Game 234 | P1: 11 | P2: 42 | Moves: 12 | Time(ms): 372
+Game 235 | P1: 16 | P2: 43 | Moves: 12 | Time(ms): 354
+Game 236 | P1: 6 | P2: 56 | Moves: 28 | Time(ms): 318
+Game 237 | P1: 28 | P2: 40 | Moves: 14 | Time(ms): 188
+Game 238 | P1: 7 | P2: 58 | Moves: 14 | Time(ms): 370
+Game 239 | P1: 18 | P2: 43 | Moves: 16 | Time(ms): 232
+Game 240 | P1: 12 | P2: 45 | Moves: 10 | Time(ms): 176
+Game 241 | P1: 7 | P2: 53 | Moves: 12 | Time(ms): 192
+Game 242 | P1: 7 | P2: 58 | Moves: 14 | Time(ms): 116
+Game 243 | P1: 7 | P2: 53 | Moves: 10 | Time(ms): 178
+Game 244 | P1: 6 | P2: 58 | Moves: 14 | Time(ms): 204
+Game 245 | P1: 7 | P2: 54 | Moves: 16 | Time(ms): 260
+Game 246 | P1: 5 | P2: 56 | Moves: 14 | Time(ms): 163
+Game 247 | P1: 0 | P2: 49 | Moves: 12 | Time(ms): 176
+Game 248 | P1: 6 | P2: 48 | Moves: 10 | Time(ms): 189
+Game 249 | P1: 2 | P2: 42 | Moves: 10 | Time(ms): 168
+Game 250 | P1: 33 | P2: 33 | Moves: 18 | Time(ms): 272
+Game 251 | P1: 6 | P2: 54 | Moves: 14 | Time(ms): 151
+Game 252 | P1: 3 | P2: 47 | Moves: 8 | Time(ms): 97
+Game 253 | P1: 6 | P2: 48 | Moves: 14 | Time(ms): 273
+Game 254 | P1: 1 | P2: 55 | Moves: 10 | Time(ms): 186
+Game 255 | P1: 10 | P2: 58 | Moves: 14 | Time(ms): 171
+Game 256 | P1: 3 | P2: 60 | Moves: 12 | Time(ms): 163
+Game 257 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 84
+Game 258 | P1: 7 | P2: 59 | Moves: 12 | Time(ms): 120
+Game 259 | P1: 8 | P2: 57 | Moves: 12 | Time(ms): 123
+Game 260 | P1: 0 | P2: 41 | Moves: 14 | Time(ms): 233
+Game 261 | P1: 4 | P2: 62 | Moves: 10 | Time(ms): 207
+Game 262 | P1: 7 | P2: 45 | Moves: 14 | Time(ms): 211
+Game 263 | P1: 1 | P2: 42 | Moves: 10 | Time(ms): 162
+Game 264 | P1: 0 | P2: 62 | Moves: 8 | Time(ms): 145
+Game 265 | P1: 19 | P2: 43 | Moves: 28 | Time(ms): 229
+Game 266 | P1: 0 | P2: 61 | Moves: 12 | Time(ms): 169
+Game 267 | P1: 3 | P2: 52 | Moves: 8 | Time(ms): 78
+Game 268 | P1: 9 | P2: 47 | Moves: 12 | Time(ms): 204
+Game 269 | P1: 5 | P2: 54 | Moves: 18 | Time(ms): 210
+Game 270 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 102
+Game 271 | P1: 16 | P2: 54 | Moves: 24 | Time(ms): 182
+Game 272 | P1: 19 | P2: 47 | Moves: 12 | Time(ms): 113
+Game 273 | P1: 7 | P2: 55 | Moves: 14 | Time(ms): 118
+Game 274 | P1: 6 | P2: 50 | Moves: 14 | Time(ms): 263
+Game 275 | P1: 6 | P2: 46 | Moves: 12 | Time(ms): 257
+Game 276 | P1: 17 | P2: 45 | Moves: 16 | Time(ms): 293
+Game 277 | P1: 6 | P2: 51 | Moves: 8 | Time(ms): 170
+Game 278 | P1: 1 | P2: 69 | Moves: 12 | Time(ms): 193
+Game 279 | P1: 7 | P2: 42 | Moves: 12 | Time(ms): 191
+Game 280 | P1: 0 | P2: 50 | Moves: 12 | Time(ms): 230
+Game 281 | P1: 5 | P2: 51 | Moves: 16 | Time(ms): 139
+Game 282 | P1: 6 | P2: 48 | Moves: 14 | Time(ms): 212
+Game 283 | P1: 27 | P2: 32 | Moves: 10 | Time(ms): 159
+Game 284 | P1: 2 | P2: 60 | Moves: 8 | Time(ms): 91
+Game 285 | P1: 4 | P2: 63 | Moves: 10 | Time(ms): 144
+Game 286 | P1: 1 | P2: 14 | Moves: 7 | Time(ms): 162
+Game 287 | P1: 8 | P2: 57 | Moves: 22 | Time(ms): 230
+Game 288 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 86
+Game 289 | P1: 10 | P2: 49 | Moves: 18 | Time(ms): 172
+Game 290 | P1: 13 | P2: 43 | Moves: 24 | Time(ms): 272
+Game 291 | P1: 14 | P2: 43 | Moves: 34 | Time(ms): 178
+Game 292 | P1: 12 | P2: 57 | Moves: 12 | Time(ms): 129
+Game 293 | P1: 21 | P2: 42 | Moves: 38 | Time(ms): 306
+Game 294 | P1: 7 | P2: 54 | Moves: 14 | Time(ms): 194
+Game 295 | P1: 24 | P2: 41 | Moves: 14 | Time(ms): 133
+Game 296 | P1: 10 | P2: 44 | Moves: 12 | Time(ms): 196
+Game 297 | P1: 16 | P2: 47 | Moves: 8 | Time(ms): 102
+Game 298 | P1: 12 | P2: 51 | Moves: 10 | Time(ms): 98
+Game 299 | P1: 9 | P2: 41 | Moves: 8 | Time(ms): 197
+Game 300 | P1: 14 | P2: 43 | Moves: 12 | Time(ms): 222
+Game 301 | P1: 1 | P2: 52 | Moves: 34 | Time(ms): 228
+Game 302 | P1: 10 | P2: 47 | Moves: 10 | Time(ms): 142
+Game 303 | P1: 1 | P2: 58 | Moves: 14 | Time(ms): 178
+Game 304 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 111
+Game 305 | P1: 3 | P2: 51 | Moves: 8 | Time(ms): 185
+Game 306 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 97
+Game 307 | P1: 3 | P2: 53 | Moves: 14 | Time(ms): 204
+Game 308 | P1: 7 | P2: 59 | Moves: 20 | Time(ms): 128
+Game 309 | P1: 10 | P2: 45 | Moves: 14 | Time(ms): 238
+Game 310 | P1: 14 | P2: 47 | Moves: 14 | Time(ms): 174
+Game 311 | P1: 8 | P2: 50 | Moves: 20 | Time(ms): 122
+Game 312 | P1: 7 | P2: 46 | Moves: 12 | Time(ms): 152
+Game 313 | P1: 27 | P2: 32 | Moves: 10 | Time(ms): 134
+Game 314 | P1: 7 | P2: 57 | Moves: 14 | Time(ms): 144
+Game 315 | P1: 6 | P2: 50 | Moves: 14 | Time(ms): 285
+Game 316 | P1: 6 | P2: 53 | Moves: 12 | Time(ms): 182
+Game 317 | P1: 6 | P2: 55 | Moves: 14 | Time(ms): 178
+Game 318 | P1: 8 | P2: 43 | Moves: 16 | Time(ms): 175
+Game 319 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 114
+Game 320 | P1: 9 | P2: 43 | Moves: 10 | Time(ms): 194
+Game 321 | P1: 0 | P2: 67 | Moves: 14 | Time(ms): 251
+Game 322 | P1: 6 | P2: 53 | Moves: 14 | Time(ms): 215
+Game 323 | P1: 10 | P2: 55 | Moves: 18 | Time(ms): 150
+Game 324 | P1: 12 | P2: 47 | Moves: 10 | Time(ms): 126
+Game 325 | P1: 20 | P2: 41 | Moves: 24 | Time(ms): 126
+Game 326 | P1: 7 | P2: 43 | Moves: 14 | Time(ms): 198
+Game 327 | P1: 3 | P2: 60 | Moves: 12 | Time(ms): 146
+Game 328 | P1: 6 | P2: 44 | Moves: 10 | Time(ms): 199
+Game 329 | P1: 6 | P2: 45 | Moves: 10 | Time(ms): 207
+Game 330 | P1: 20 | P2: 42 | Moves: 16 | Time(ms): 227
+Game 331 | P1: 20 | P2: 42 | Moves: 14 | Time(ms): 133
+Game 332 | P1: 4 | P2: 41 | Moves: 10 | Time(ms): 126
+Game 333 | P1: 6 | P2: 47 | Moves: 10 | Time(ms): 208
+Game 334 | P1: 18 | P2: 41 | Moves: 16 | Time(ms): 184
+Game 335 | P1: 12 | P2: 51 | Moves: 10 | Time(ms): 120
+Game 336 | P1: 15 | P2: 44 | Moves: 8 | Time(ms): 147
+Game 337 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 106
+Game 338 | P1: 27 | P2: 35 | Moves: 11 | Time(ms): 172
+Game 339 | P1: 7 | P2: 41 | Moves: 18 | Time(ms): 281
+Game 340 | P1: 0 | P2: 60 | Moves: 10 | Time(ms): 150
+Game 341 | P1: 9 | P2: 54 | Moves: 20 | Time(ms): 218
+Game 342 | P1: 7 | P2: 47 | Moves: 16 | Time(ms): 266
+Game 343 | P1: 9 | P2: 43 | Moves: 12 | Time(ms): 256
+Game 344 | P1: 4 | P2: 42 | Moves: 12 | Time(ms): 135
+Game 345 | P1: 19 | P2: 46 | Moves: 30 | Time(ms): 278
+Game 346 | P1: 0 | P2: 50 | Moves: 10 | Time(ms): 358
+Game 347 | P1: 16 | P2: 39 | Moves: 8 | Time(ms): 132
+Game 348 | P1: 10 | P2: 44 | Moves: 8 | Time(ms): 144
+Game 349 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 127
+Game 350 | P1: 13 | P2: 50 | Moves: 18 | Time(ms): 184
+Game 351 | P1: 4 | P2: 54 | Moves: 12 | Time(ms): 376
+Game 352 | P1: 6 | P2: 51 | Moves: 10 | Time(ms): 152
+Game 353 | P1: 1 | P2: 44 | Moves: 10 | Time(ms): 224
+Game 354 | P1: 15 | P2: 49 | Moves: 34 | Time(ms): 215
+Game 355 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 144
+Game 356 | P1: 3 | P2: 42 | Moves: 12 | Time(ms): 340
+Game 357 | P1: 16 | P2: 41 | Moves: 12 | Time(ms): 259
+Game 358 | P1: 16 | P2: 43 | Moves: 14 | Time(ms): 247
+Game 359 | P1: 6 | P2: 41 | Moves: 10 | Time(ms): 200
+Game 360 | P1: 1 | P2: 41 | Moves: 8 | Time(ms): 116
+Game 361 | P1: 1 | P2: 61 | Moves: 14 | Time(ms): 143
+Game 362 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 110
+Game 363 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 174
+Game 364 | P1: 5 | P2: 49 | Moves: 10 | Time(ms): 155
+Game 365 | P1: 0 | P2: 42 | Moves: 10 | Time(ms): 208
+Game 366 | P1: 27 | P2: 35 | Moves: 11 | Time(ms): 191
+Game 367 | P1: 8 | P2: 53 | Moves: 8 | Time(ms): 124
+Game 368 | P1: 0 | P2: 49 | Moves: 8 | Time(ms): 171
+Game 369 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 73
+Game 370 | P1: 6 | P2: 56 | Moves: 14 | Time(ms): 272
+Game 371 | P1: 6 | P2: 43 | Moves: 10 | Time(ms): 153
+Game 372 | P1: 9 | P2: 43 | Moves: 10 | Time(ms): 166
+Game 373 | P1: 12 | P2: 51 | Moves: 10 | Time(ms): 124
+Game 374 | P1: 0 | P2: 42 | Moves: 14 | Time(ms): 161
+Game 375 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 87
+Game 376 | P1: 7 | P2: 51 | Moves: 10 | Time(ms): 114
+Game 377 | P1: 15 | P2: 41 | Moves: 18 | Time(ms): 279
+Game 378 | P1: 2 | P2: 48 | Moves: 14 | Time(ms): 204
+Game 379 | P1: 35 | P2: 34 | Moves: 9 | Time(ms): 91
+Game 380 | P1: 6 | P2: 58 | Moves: 12 | Time(ms): 134
+Game 381 | P1: 27 | P2: 41 | Moves: 126 | Time(ms): 223
+Game 382 | P1: 6 | P2: 48 | Moves: 10 | Time(ms): 198
+Game 383 | P1: 4 | P2: 57 | Moves: 10 | Time(ms): 116
+Game 384 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 85
+Game 385 | P1: 6 | P2: 46 | Moves: 10 | Time(ms): 173
+Game 386 | P1: 16 | P2: 43 | Moves: 12 | Time(ms): 166
+Game 387 | P1: 8 | P2: 54 | Moves: 20 | Time(ms): 221
+Game 388 | P1: 1 | P2: 50 | Moves: 8 | Time(ms): 167
+Game 389 | P1: 3 | P2: 11 | Moves: 10 | Time(ms): 147
+Game 390 | P1: 6 | P2: 53 | Moves: 10 | Time(ms): 124
+Game 391 | P1: 6 | P2: 50 | Moves: 12 | Time(ms): 163
+Game 392 | P1: 9 | P2: 51 | Moves: 14 | Time(ms): 117
+Game 393 | P1: 26 | P2: 41 | Moves: 20 | Time(ms): 181
+Game 394 | P1: 17 | P2: 43 | Moves: 12 | Time(ms): 129
+Game 395 | P1: 6 | P2: 51 | Moves: 8 | Time(ms): 142
+Game 396 | P1: 21 | P2: 48 | Moves: 18 | Time(ms): 123
+Game 397 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 81
+Game 398 | P1: 27 | P2: 35 | Moves: 11 | Time(ms): 186
+Game 399 | P1: 4 | P2: 61 | Moves: 8 | Time(ms): 99
+Game 400 | P1: 2 | P2: 49 | Moves: 12 | Time(ms): 195
+Game 401 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 161
+Game 402 | P1: 6 | P2: 54 | Moves: 14 | Time(ms): 260
+Game 403 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 158
+Game 404 | P1: 7 | P2: 41 | Moves: 10 | Time(ms): 140
+Game 405 | P1: 10 | P2: 52 | Moves: 20 | Time(ms): 277
+Game 406 | P1: 8 | P2: 52 | Moves: 10 | Time(ms): 127
+Game 407 | P1: 1 | P2: 54 | Moves: 10 | Time(ms): 177
+Game 408 | P1: 1 | P2: 55 | Moves: 10 | Time(ms): 195
+Game 409 | P1: 6 | P2: 53 | Moves: 10 | Time(ms): 152
+Game 410 | P1: 4 | P2: 51 | Moves: 14 | Time(ms): 171
+Game 411 | P1: 0 | P2: 44 | Moves: 8 | Time(ms): 144
+Game 412 | P1: 9 | P2: 44 | Moves: 10 | Time(ms): 250
+Game 413 | P1: 15 | P2: 47 | Moves: 18 | Time(ms): 263
+Game 414 | P1: 0 | P2: 50 | Moves: 10 | Time(ms): 200
+Game 415 | P1: 6 | P2: 54 | Moves: 12 | Time(ms): 134
+Game 416 | P1: 5 | P2: 47 | Moves: 14 | Time(ms): 224
+Game 417 | P1: 1 | P2: 51 | Moves: 12 | Time(ms): 245
+Game 418 | P1: 3 | P2: 37 | Moves: 12 | Time(ms): 258
+Game 419 | P1: 8 | P2: 53 | Moves: 10 | Time(ms): 119
+Game 420 | P1: 8 | P2: 53 | Moves: 14 | Time(ms): 120
+Game 421 | P1: 5 | P2: 51 | Moves: 12 | Time(ms): 116
+Game 422 | P1: 9 | P2: 48 | Moves: 16 | Time(ms): 262
+Game 423 | P1: 2 | P2: 56 | Moves: 16 | Time(ms): 176
+Game 424 | P1: 29 | P2: 37 | Moves: 38 | Time(ms): 190
+Game 425 | P1: 29 | P2: 36 | Moves: 16 | Time(ms): 148
+Game 426 | P1: 21 | P2: 41 | Moves: 16 | Time(ms): 133
+Game 427 | P1: 6 | P2: 52 | Moves: 10 | Time(ms): 135
+Game 428 | P1: 14 | P2: 48 | Moves: 10 | Time(ms): 98
+Game 429 | P1: 2 | P2: 40 | Moves: 13 | Time(ms): 175
+Game 430 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 86
+Game 431 | P1: 1 | P2: 44 | Moves: 10 | Time(ms): 180
+Game 432 | P1: 7 | P2: 45 | Moves: 10 | Time(ms): 146
+Game 433 | P1: 5 | P2: 61 | Moves: 14 | Time(ms): 195
+Game 434 | P1: 1 | P2: 44 | Moves: 12 | Time(ms): 214
+Game 435 | P1: 11 | P2: 52 | Moves: 12 | Time(ms): 105
+Game 436 | P1: 3 | P2: 54 | Moves: 16 | Time(ms): 148
+Game 437 | P1: 3 | P2: 46 | Moves: 12 | Time(ms): 120
+Game 438 | P1: 20 | P2: 50 | Moves: 36 | Time(ms): 130
+Game 439 | P1: 12 | P2: 48 | Moves: 12 | Time(ms): 151
+Game 440 | P1: 8 | P2: 45 | Moves: 10 | Time(ms): 180
+Game 441 | P1: 7 | P2: 54 | Moves: 18 | Time(ms): 197
+Game 442 | P1: 18 | P2: 46 | Moves: 24 | Time(ms): 266
+Game 443 | P1: 6 | P2: 58 | Moves: 8 | Time(ms): 120
+Game 444 | P1: 6 | P2: 58 | Moves: 12 | Time(ms): 139
+Game 445 | P1: 17 | P2: 42 | Moves: 22 | Time(ms): 180
+Game 446 | P1: 19 | P2: 46 | Moves: 32 | Time(ms): 212
+Game 447 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 121
+Game 448 | P1: 1 | P2: 60 | Moves: 10 | Time(ms): 159
+Game 449 | P1: 7 | P2: 52 | Moves: 16 | Time(ms): 154
+Game 450 | P1: 7 | P2: 56 | Moves: 12 | Time(ms): 198
+Game 451 | P1: 9 | P2: 46 | Moves: 8 | Time(ms): 173
+Game 452 | P1: 1 | P2: 50 | Moves: 10 | Time(ms): 208
+Game 453 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 171
+Game 454 | P1: 12 | P2: 48 | Moves: 14 | Time(ms): 231
+Game 455 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 110
+Game 456 | P1: 7 | P2: 55 | Moves: 18 | Time(ms): 222
+Game 457 | P1: 8 | P2: 56 | Moves: 16 | Time(ms): 213
+Game 458 | P1: 15 | P2: 52 | Moves: 20 | Time(ms): 228
+Game 459 | P1: 10 | P2: 50 | Moves: 22 | Time(ms): 286
+Game 460 | P1: 9 | P2: 55 | Moves: 28 | Time(ms): 204
+Game 461 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 110
+Game 462 | P1: 16 | P2: 47 | Moves: 8 | Time(ms): 85
+Game 463 | P1: 16 | P2: 41 | Moves: 12 | Time(ms): 218
+Game 464 | P1: 7 | P2: 51 | Moves: 14 | Time(ms): 216
+Game 465 | P1: 19 | P2: 45 | Moves: 18 | Time(ms): 158
+Game 466 | P1: 3 | P2: 46 | Moves: 18 | Time(ms): 193
+Game 467 | P1: 15 | P2: 44 | Moves: 8 | Time(ms): 157
+Game 468 | P1: 4 | P2: 41 | Moves: 10 | Time(ms): 106
+Game 469 | P1: 21 | P2: 44 | Moves: 12 | Time(ms): 131
+Game 470 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 113
+Game 471 | P1: 13 | P2: 43 | Moves: 14 | Time(ms): 238
+Game 472 | P1: 12 | P2: 42 | Moves: 16 | Time(ms): 293
+Game 473 | P1: 7 | P2: 51 | Moves: 16 | Time(ms): 104
+Game 474 | P1: 13 | P2: 41 | Moves: 12 | Time(ms): 217
+Game 475 | P1: 2 | P2: 61 | Moves: 22 | Time(ms): 355
+Game 476 | P1: 13 | P2: 45 | Moves: 12 | Time(ms): 207
+Game 477 | P1: 20 | P2: 42 | Moves: 12 | Time(ms): 120
+Game 478 | P1: 6 | P2: 47 | Moves: 10 | Time(ms): 147
+Game 479 | P1: 3 | P2: 21 | Moves: 13 | Time(ms): 136
+Game 480 | P1: 6 | P2: 45 | Moves: 8 | Time(ms): 164
+Game 481 | P1: 9 | P2: 55 | Moves: 14 | Time(ms): 146
+Game 482 | P1: 13 | P2: 46 | Moves: 20 | Time(ms): 295
+Game 483 | P1: 6 | P2: 59 | Moves: 14 | Time(ms): 276
+Game 484 | P1: 4 | P2: 63 | Moves: 14 | Time(ms): 198
+Game 485 | P1: 9 | P2: 45 | Moves: 14 | Time(ms): 166
+Game 486 | P1: 7 | P2: 60 | Moves: 12 | Time(ms): 129
+Game 487 | P1: 20 | P2: 42 | Moves: 26 | Time(ms): 278
+Game 488 | P1: 10 | P2: 53 | Moves: 14 | Time(ms): 156
+Game 489 | P1: 7 | P2: 52 | Moves: 14 | Time(ms): 220
+Game 490 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 103
+Game 491 | P1: 10 | P2: 45 | Moves: 10 | Time(ms): 149
+Game 492 | P1: 4 | P2: 41 | Moves: 8 | Time(ms): 134
+Game 493 | P1: 22 | P2: 42 | Moves: 10 | Time(ms): 146
+Game 494 | P1: 6 | P2: 51 | Moves: 8 | Time(ms): 142
+Game 495 | P1: 6 | P2: 42 | Moves: 14 | Time(ms): 286
+Game 496 | P1: 12 | P2: 55 | Moves: 20 | Time(ms): 277
+Game 497 | P1: 6 | P2: 48 | Moves: 12 | Time(ms): 182
+Game 498 | P1: 6 | P2: 43 | Moves: 12 | Time(ms): 198
+Game 499 | P1: 18 | P2: 42 | Moves: 20 | Time(ms): 255
+Game 500 | P1: 5 | P2: 57 | Moves: 22 | Time(ms): 223
+Game 501 | P1: 6 | P2: 57 | Moves: 16 | Time(ms): 161
+Game 502 | P1: 11 | P2: 53 | Moves: 18 | Time(ms): 242
+Game 503 | P1: 16 | P2: 44 | Moves: 18 | Time(ms): 170
+Game 504 | P1: 7 | P2: 44 | Moves: 10 | Time(ms): 171
+Game 505 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 127
+Game 506 | P1: 5 | P2: 55 | Moves: 16 | Time(ms): 245
+Game 507 | P1: 13 | P2: 57 | Moves: 16 | Time(ms): 272
+Game 508 | P1: 0 | P2: 62 | Moves: 8 | Time(ms): 136
+Game 509 | P1: 6 | P2: 51 | Moves: 14 | Time(ms): 146
+Game 510 | P1: 16 | P2: 42 | Moves: 28 | Time(ms): 136
+Game 511 | P1: 1 | P2: 48 | Moves: 10 | Time(ms): 171
+Game 512 | P1: 1 | P2: 52 | Moves: 10 | Time(ms): 162
+Game 513 | P1: 8 | P2: 52 | Moves: 10 | Time(ms): 170
+Game 514 | P1: 15 | P2: 45 | Moves: 18 | Time(ms): 240
+Game 515 | P1: 17 | P2: 50 | Moves: 24 | Time(ms): 206
+Game 516 | P1: 8 | P2: 53 | Moves: 10 | Time(ms): 106
+Game 517 | P1: 7 | P2: 56 | Moves: 14 | Time(ms): 183
+Game 518 | P1: 12 | P2: 44 | Moves: 18 | Time(ms): 238
+Game 519 | P1: 6 | P2: 43 | Moves: 10 | Time(ms): 119
+Game 520 | P1: 7 | P2: 56 | Moves: 20 | Time(ms): 247
+Game 521 | P1: 4 | P2: 61 | Moves: 20 | Time(ms): 166
+Game 522 | P1: 12 | P2: 45 | Moves: 10 | Time(ms): 193
+Game 523 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 103
+Game 524 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 116
+Game 525 | P1: 6 | P2: 56 | Moves: 18 | Time(ms): 183
+Game 526 | P1: 25 | P2: 42 | Moves: 26 | Time(ms): 239
+Game 527 | P1: 17 | P2: 49 | Moves: 8 | Time(ms): 140
+Game 528 | P1: 7 | P2: 56 | Moves: 14 | Time(ms): 204
+Game 529 | P1: 11 | P2: 48 | Moves: 12 | Time(ms): 228
+Game 530 | P1: 1 | P2: 43 | Moves: 10 | Time(ms): 238
+Game 531 | P1: 8 | P2: 59 | Moves: 14 | Time(ms): 126
+Game 532 | P1: 28 | P2: 34 | Moves: 11 | Time(ms): 180
+Game 533 | P1: 8 | P2: 61 | Moves: 14 | Time(ms): 112
+Game 534 | P1: 13 | P2: 46 | Moves: 12 | Time(ms): 197
+Game 535 | P1: 9 | P2: 48 | Moves: 12 | Time(ms): 130
+Game 536 | P1: 6 | P2: 42 | Moves: 8 | Time(ms): 116
+Game 537 | P1: 23 | P2: 40 | Moves: 16 | Time(ms): 245
+Game 538 | P1: 6 | P2: 51 | Moves: 10 | Time(ms): 143
+Game 539 | P1: 1 | P2: 41 | Moves: 8 | Time(ms): 113
+Game 540 | P1: 3 | P2: 57 | Moves: 16 | Time(ms): 160
+Game 541 | P1: 6 | P2: 54 | Moves: 12 | Time(ms): 154
+Game 542 | P1: 16 | P2: 47 | Moves: 28 | Time(ms): 163
+Game 543 | P1: 9 | P2: 46 | Moves: 8 | Time(ms): 168
+Game 544 | P1: 1 | P2: 32 | Moves: 9 | Time(ms): 204
+Game 545 | P1: 10 | P2: 43 | Moves: 12 | Time(ms): 277
+Game 546 | P1: 8 | P2: 54 | Moves: 8 | Time(ms): 106
+Game 547 | P1: 1 | P2: 57 | Moves: 18 | Time(ms): 242
+Game 548 | P1: 16 | P2: 43 | Moves: 12 | Time(ms): 204
+Game 549 | P1: 6 | P2: 50 | Moves: 10 | Time(ms): 181
+Game 550 | P1: 8 | P2: 54 | Moves: 8 | Time(ms): 97
+Game 551 | P1: 10 | P2: 56 | Moves: 16 | Time(ms): 165
+Game 552 | P1: 18 | P2: 43 | Moves: 62 | Time(ms): 266
+Game 553 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 118
+Game 554 | P1: 2 | P2: 55 | Moves: 14 | Time(ms): 187
+Game 555 | P1: 6 | P2: 45 | Moves: 10 | Time(ms): 166
+Game 556 | P1: 0 | P2: 42 | Moves: 8 | Time(ms): 252
+Game 557 | P1: 6 | P2: 42 | Moves: 12 | Time(ms): 174
+Game 558 | P1: 6 | P2: 52 | Moves: 12 | Time(ms): 150
+Game 559 | P1: 3 | P2: 60 | Moves: 12 | Time(ms): 148
+Game 560 | P1: 22 | P2: 39 | Moves: 14 | Time(ms): 199
+Game 561 | P1: 6 | P2: 51 | Moves: 8 | Time(ms): 150
+Game 562 | P1: 0 | P2: 45 | Moves: 6 | Time(ms): 155
+Game 563 | P1: 2 | P2: 51 | Moves: 10 | Time(ms): 155
+Game 564 | P1: 1 | P2: 44 | Moves: 6 | Time(ms): 121
+Game 565 | P1: 7 | P2: 53 | Moves: 12 | Time(ms): 158
+Game 566 | P1: 13 | P2: 50 | Moves: 18 | Time(ms): 309
+Game 567 | P1: 6 | P2: 45 | Moves: 12 | Time(ms): 202
+Game 568 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 119
+Game 569 | P1: 8 | P2: 62 | Moves: 8 | Time(ms): 145
+Game 570 | P1: 6 | P2: 46 | Moves: 12 | Time(ms): 255
+Game 571 | P1: 8 | P2: 54 | Moves: 20 | Time(ms): 295
+Game 572 | P1: 7 | P2: 59 | Moves: 12 | Time(ms): 110
+Game 573 | P1: 8 | P2: 53 | Moves: 16 | Time(ms): 185
+Game 574 | P1: 17 | P2: 47 | Moves: 8 | Time(ms): 73
+Game 575 | P1: 6 | P2: 41 | Moves: 8 | Time(ms): 180
+Game 576 | P1: 10 | P2: 51 | Moves: 16 | Time(ms): 186
+Game 577 | P1: 6 | P2: 51 | Moves: 8 | Time(ms): 166
+Game 578 | P1: 12 | P2: 43 | Moves: 12 | Time(ms): 175
+Game 579 | P1: 6 | P2: 53 | Moves: 8 | Time(ms): 155
+Game 580 | P1: 7 | P2: 59 | Moves: 12 | Time(ms): 125
+Game 581 | P1: 11 | P2: 46 | Moves: 12 | Time(ms): 168
+Game 582 | P1: 10 | P2: 54 | Moves: 14 | Time(ms): 123
+Game 583 | P1: 8 | P2: 62 | Moves: 18 | Time(ms): 207
+Game 584 | P1: 6 | P2: 57 | Moves: 16 | Time(ms): 224
+Game 585 | P1: 3 | P2: 40 | Moves: 10 | Time(ms): 125
+Game 586 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 121
+Game 587 | P1: 12 | P2: 41 | Moves: 50 | Time(ms): 155
+Game 588 | P1: 16 | P2: 46 | Moves: 10 | Time(ms): 92
+Game 589 | P1: 10 | P2: 47 | Moves: 16 | Time(ms): 272
+Game 590 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 127
+Game 591 | P1: 3 | P2: 43 | Moves: 10 | Time(ms): 181
+Game 592 | P1: 1 | P2: 63 | Moves: 10 | Time(ms): 169
+Game 593 | P1: 3 | P2: 56 | Moves: 18 | Time(ms): 155
+Game 594 | P1: 17 | P2: 42 | Moves: 32 | Time(ms): 182
+Game 595 | P1: 7 | P2: 51 | Moves: 10 | Time(ms): 117
+Game 596 | P1: 6 | P2: 51 | Moves: 8 | Time(ms): 174
+Game 597 | P1: 10 | P2: 44 | Moves: 8 | Time(ms): 117
+Game 598 | P1: 16 | P2: 42 | Moves: 12 | Time(ms): 202
+Game 599 | P1: 7 | P2: 57 | Moves: 14 | Time(ms): 189
+Game 600 | P1: 10 | P2: 57 | Moves: 18 | Time(ms): 185
+Game 601 | P1: 22 | P2: 39 | Moves: 14 | Time(ms): 218
+Game 602 | P1: 12 | P2: 50 | Moves: 18 | Time(ms): 220
+Game 603 | P1: 10 | P2: 54 | Moves: 10 | Time(ms): 117
+Game 604 | P1: 0 | P2: 41 | Moves: 12 | Time(ms): 174
+Game 605 | P1: 6 | P2: 60 | Moves: 10 | Time(ms): 139
+Game 606 | P1: 9 | P2: 58 | Moves: 16 | Time(ms): 159
+Game 607 | P1: 9 | P2: 53 | Moves: 14 | Time(ms): 172
+Game 608 | P1: 12 | P2: 50 | Moves: 18 | Time(ms): 169
+Game 609 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 122
+Game 610 | P1: 27 | P2: 32 | Moves: 10 | Time(ms): 143
+Game 611 | P1: 9 | P2: 51 | Moves: 14 | Time(ms): 177
+Game 612 | P1: 15 | P2: 43 | Moves: 58 | Time(ms): 254
+Game 613 | P1: 5 | P2: 54 | Moves: 12 | Time(ms): 190
+Game 614 | P1: 7 | P2: 43 | Moves: 14 | Time(ms): 209
+Game 615 | P1: 16 | P2: 45 | Moves: 12 | Time(ms): 159
+Game 616 | P1: 10 | P2: 44 | Moves: 12 | Time(ms): 161
+Game 617 | P1: 4 | P2: 46 | Moves: 10 | Time(ms): 233
+Game 618 | P1: 8 | P2: 42 | Moves: 10 | Time(ms): 156
+Game 619 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 198
+Game 620 | P1: 6 | P2: 49 | Moves: 10 | Time(ms): 171
+Game 621 | P1: 8 | P2: 41 | Moves: 8 | Time(ms): 163
+Game 622 | P1: 13 | P2: 50 | Moves: 16 | Time(ms): 112
+Game 623 | P1: 18 | P2: 49 | Moves: 14 | Time(ms): 125
+Game 624 | P1: 4 | P2: 54 | Moves: 12 | Time(ms): 163
+Game 625 | P1: 11 | P2: 45 | Moves: 10 | Time(ms): 89
+Game 626 | P1: 10 | P2: 45 | Moves: 14 | Time(ms): 213
+Game 627 | P1: 4 | P2: 48 | Moves: 12 | Time(ms): 346
+Game 628 | P1: 6 | P2: 52 | Moves: 12 | Time(ms): 187
+Game 629 | P1: 4 | P2: 60 | Moves: 10 | Time(ms): 147
+Game 630 | P1: 6 | P2: 43 | Moves: 10 | Time(ms): 145
+Game 631 | P1: 28 | P2: 24 | Moves: 11 | Time(ms): 231
+Game 632 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 73
+Game 633 | P1: 16 | P2: 47 | Moves: 8 | Time(ms): 76
+Game 634 | P1: 21 | P2: 41 | Moves: 16 | Time(ms): 153
+Game 635 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 111
+Game 636 | P1: 30 | P2: 37 | Moves: 16 | Time(ms): 208
+Game 637 | P1: 5 | P2: 61 | Moves: 8 | Time(ms): 129
+Game 638 | P1: 11 | P2: 42 | Moves: 10 | Time(ms): 148
+Game 639 | P1: 6 | P2: 56 | Moves: 14 | Time(ms): 186
+Game 640 | P1: 3 | P2: 59 | Moves: 12 | Time(ms): 177
+Game 641 | P1: 17 | P2: 47 | Moves: 8 | Time(ms): 77
+Game 642 | P1: 7 | P2: 46 | Moves: 10 | Time(ms): 159
+Game 643 | P1: 16 | P2: 43 | Moves: 36 | Time(ms): 208
+Game 644 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 121
+Game 645 | P1: 6 | P2: 50 | Moves: 14 | Time(ms): 223
+Game 646 | P1: 5 | P2: 52 | Moves: 10 | Time(ms): 163
+Game 647 | P1: 4 | P2: 63 | Moves: 20 | Time(ms): 218
+Game 648 | P1: 7 | P2: 56 | Moves: 20 | Time(ms): 263
+Game 649 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 111
+Game 650 | P1: 9 | P2: 44 | Moves: 8 | Time(ms): 122
+Game 651 | P1: 0 | P2: 44 | Moves: 8 | Time(ms): 143
+Game 652 | P1: 3 | P2: 46 | Moves: 10 | Time(ms): 136
+Game 653 | P1: 3 | P2: 67 | Moves: 10 | Time(ms): 125
+Game 654 | P1: 18 | P2: 49 | Moves: 12 | Time(ms): 130
+Game 655 | P1: 3 | P2: 54 | Moves: 18 | Time(ms): 299
+Game 656 | P1: 10 | P2: 48 | Moves: 12 | Time(ms): 262
+Game 657 | P1: 16 | P2: 44 | Moves: 18 | Time(ms): 352
+Game 658 | P1: 16 | P2: 41 | Moves: 12 | Time(ms): 204
+Game 659 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 119
+Game 660 | P1: 11 | P2: 54 | Moves: 18 | Time(ms): 218
+Game 661 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 127
+Game 662 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 110
+Game 663 | P1: 14 | P2: 51 | Moves: 20 | Time(ms): 115
+Game 664 | P1: 1 | P2: 43 | Moves: 16 | Time(ms): 250
+Game 665 | P1: 4 | P2: 56 | Moves: 14 | Time(ms): 212
+Game 666 | P1: 2 | P2: 63 | Moves: 20 | Time(ms): 242
+Game 667 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 70
+Game 668 | P1: 3 | P2: 42 | Moves: 6 | Time(ms): 160
+Game 669 | P1: 9 | P2: 52 | Moves: 14 | Time(ms): 157
+Game 670 | P1: 6 | P2: 47 | Moves: 12 | Time(ms): 238
+Game 671 | P1: 0 | P2: 44 | Moves: 8 | Time(ms): 163
+Game 672 | P1: 4 | P2: 61 | Moves: 16 | Time(ms): 166
+Game 673 | P1: 13 | P2: 47 | Moves: 8 | Time(ms): 137
+Game 674 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 163
+Game 675 | P1: 8 | P2: 47 | Moves: 12 | Time(ms): 139
+Game 676 | P1: 7 | P2: 61 | Moves: 24 | Time(ms): 177
+Game 677 | P1: 2 | P2: 50 | Moves: 10 | Time(ms): 217
+Game 678 | P1: 4 | P2: 60 | Moves: 10 | Time(ms): 155
+Game 679 | P1: 8 | P2: 54 | Moves: 8 | Time(ms): 97
+Game 680 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 132
+Game 681 | P1: 12 | P2: 56 | Moves: 12 | Time(ms): 168
+Game 682 | P1: 7 | P2: 57 | Moves: 18 | Time(ms): 212
+Game 683 | P1: 7 | P2: 43 | Moves: 6 | Time(ms): 101
+Game 684 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 135
+Game 685 | P1: 8 | P2: 50 | Moves: 10 | Time(ms): 133
+Game 686 | P1: 6 | P2: 53 | Moves: 10 | Time(ms): 164
+Game 687 | P1: 26 | P2: 40 | Moves: 22 | Time(ms): 193
+Game 688 | P1: 4 | P2: 63 | Moves: 10 | Time(ms): 165
+Game 689 | P1: 6 | P2: 55 | Moves: 14 | Time(ms): 158
+Game 690 | P1: 14 | P2: 44 | Moves: 14 | Time(ms): 244
+Game 691 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 135
+Game 692 | P1: 17 | P2: 43 | Moves: 28 | Time(ms): 346
+Game 693 | P1: 0 | P2: 48 | Moves: 8 | Time(ms): 156
+Game 694 | P1: 6 | P2: 45 | Moves: 10 | Time(ms): 165
+Game 695 | P1: 8 | P2: 51 | Moves: 10 | Time(ms): 147
+Game 696 | P1: 12 | P2: 51 | Moves: 8 | Time(ms): 79
+Game 697 | P1: 4 | P2: 55 | Moves: 24 | Time(ms): 257
+Game 698 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 113
+Game 699 | P1: 23 | P2: 34 | Moves: 12 | Time(ms): 160
+Game 700 | P1: 7 | P2: 61 | Moves: 10 | Time(ms): 132
+Game 701 | P1: 0 | P2: 66 | Moves: 10 | Time(ms): 203
+Game 702 | P1: 12 | P2: 46 | Moves: 12 | Time(ms): 179
+Game 703 | P1: 1 | P2: 53 | Moves: 14 | Time(ms): 254
+Game 704 | P1: 14 | P2: 46 | Moves: 18 | Time(ms): 248
+Game 705 | P1: 6 | P2: 48 | Moves: 12 | Time(ms): 187
+Game 706 | P1: 10 | P2: 50 | Moves: 12 | Time(ms): 155
+Game 707 | P1: 5 | P2: 61 | Moves: 8 | Time(ms): 146
+Game 708 | P1: 16 | P2: 49 | Moves: 14 | Time(ms): 102
+Game 709 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 125
+Game 710 | P1: 2 | P2: 42 | Moves: 14 | Time(ms): 207
+Game 711 | P1: 16 | P2: 43 | Moves: 20 | Time(ms): 207
+Game 712 | P1: 8 | P2: 41 | Moves: 12 | Time(ms): 143
+Game 713 | P1: 16 | P2: 42 | Moves: 8 | Time(ms): 83
+Game 714 | P1: 12 | P2: 47 | Moves: 16 | Time(ms): 172
+Game 715 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 84
+Game 716 | P1: 4 | P2: 41 | Moves: 8 | Time(ms): 114
+Game 717 | P1: 7 | P2: 45 | Moves: 10 | Time(ms): 177
+Game 718 | P1: 8 | P2: 47 | Moves: 10 | Time(ms): 133
+Game 719 | P1: 1 | P2: 51 | Moves: 8 | Time(ms): 168
+Game 720 | P1: 40 | P2: 25 | Moves: 36 | Time(ms): 288
+Game 721 | P1: 18 | P2: 43 | Moves: 14 | Time(ms): 174
+Game 722 | P1: 12 | P2: 52 | Moves: 12 | Time(ms): 125
+Game 723 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 192
+Game 724 | P1: 7 | P2: 58 | Moves: 18 | Time(ms): 217
+Game 725 | P1: 3 | P2: 62 | Moves: 18 | Time(ms): 274
+Game 726 | P1: 15 | P2: 49 | Moves: 14 | Time(ms): 183
+Game 727 | P1: 15 | P2: 46 | Moves: 12 | Time(ms): 100
+Game 728 | P1: 6 | P2: 47 | Moves: 12 | Time(ms): 123
+Game 729 | P1: 6 | P2: 47 | Moves: 10 | Time(ms): 150
+Game 730 | P1: 6 | P2: 48 | Moves: 12 | Time(ms): 286
+Game 731 | P1: 6 | P2: 64 | Moves: 6 | Time(ms): 118
+Game 732 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 217
+Game 733 | P1: 2 | P2: 51 | Moves: 8 | Time(ms): 182
+Game 734 | P1: 0 | P2: 59 | Moves: 10 | Time(ms): 202
+Game 735 | P1: 0 | P2: 62 | Moves: 8 | Time(ms): 195
+Game 736 | P1: 30 | P2: 32 | Moves: 14 | Time(ms): 217
+Game 737 | P1: 0 | P2: 58 | Moves: 10 | Time(ms): 209
+Game 738 | P1: 11 | P2: 51 | Moves: 10 | Time(ms): 181
+Game 739 | P1: 1 | P2: 46 | Moves: 12 | Time(ms): 170
+Game 740 | P1: 15 | P2: 52 | Moves: 6 | Time(ms): 107
+Game 741 | P1: 15 | P2: 42 | Moves: 10 | Time(ms): 199
+Game 742 | P1: 9 | P2: 41 | Moves: 10 | Time(ms): 123
+Game 743 | P1: 2 | P2: 58 | Moves: 16 | Time(ms): 141
+Game 744 | P1: 0 | P2: 48 | Moves: 8 | Time(ms): 180
+Game 745 | P1: 5 | P2: 53 | Moves: 12 | Time(ms): 145
+Game 746 | P1: 21 | P2: 36 | Moves: 9 | Time(ms): 171
+Game 747 | P1: 1 | P2: 42 | Moves: 10 | Time(ms): 138
+Game 748 | P1: 8 | P2: 50 | Moves: 14 | Time(ms): 166
+Game 749 | P1: 6 | P2: 47 | Moves: 12 | Time(ms): 270
+Game 750 | P1: 16 | P2: 47 | Moves: 34 | Time(ms): 295
+Game 751 | P1: 6 | P2: 50 | Moves: 12 | Time(ms): 187
+Game 752 | P1: 7 | P2: 42 | Moves: 10 | Time(ms): 174
+Game 753 | P1: 9 | P2: 41 | Moves: 8 | Time(ms): 171
+Game 754 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 108
+Game 755 | P1: 8 | P2: 52 | Moves: 12 | Time(ms): 137
+Game 756 | P1: 6 | P2: 49 | Moves: 10 | Time(ms): 152
+Game 757 | P1: 4 | P2: 55 | Moves: 10 | Time(ms): 161
+Game 758 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 82
+Game 759 | P1: 6 | P2: 57 | Moves: 12 | Time(ms): 172
+Game 760 | P1: 21 | P2: 45 | Moves: 14 | Time(ms): 198
+Game 761 | P1: 7 | P2: 54 | Moves: 10 | Time(ms): 116
+Game 762 | P1: 1 | P2: 62 | Moves: 12 | Time(ms): 201
+Game 763 | P1: 5 | P2: 61 | Moves: 8 | Time(ms): 121
+Game 764 | P1: 12 | P2: 49 | Moves: 10 | Time(ms): 142
+Game 765 | P1: 6 | P2: 56 | Moves: 10 | Time(ms): 133
+Game 766 | P1: 14 | P2: 50 | Moves: 18 | Time(ms): 266
+Game 767 | P1: 19 | P2: 43 | Moves: 14 | Time(ms): 208
+Game 768 | P1: 18 | P2: 45 | Moves: 10 | Time(ms): 90
+Game 769 | P1: 8 | P2: 50 | Moves: 10 | Time(ms): 165
+Game 770 | P1: 10 | P2: 44 | Moves: 10 | Time(ms): 166
+Game 771 | P1: 21 | P2: 42 | Moves: 16 | Time(ms): 169
+Game 772 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 128
+Game 773 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 151
+Game 774 | P1: 10 | P2: 54 | Moves: 14 | Time(ms): 171
+Game 775 | P1: 10 | P2: 54 | Moves: 12 | Time(ms): 165
+Game 776 | P1: 14 | P2: 45 | Moves: 14 | Time(ms): 177
+Game 777 | P1: 4 | P2: 41 | Moves: 8 | Time(ms): 112
+Game 778 | P1: 2 | P2: 21 | Moves: 5 | Time(ms): 70
+Game 779 | P1: 8 | P2: 54 | Moves: 10 | Time(ms): 154
+Game 780 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 107
+Game 781 | P1: 8 | P2: 62 | Moves: 8 | Time(ms): 131
+Game 782 | P1: 22 | P2: 45 | Moves: 18 | Time(ms): 206
+Game 783 | P1: 8 | P2: 44 | Moves: 10 | Time(ms): 196
+Game 784 | P1: 13 | P2: 48 | Moves: 8 | Time(ms): 166
+Game 785 | P1: 10 | P2: 51 | Moves: 14 | Time(ms): 265
+Game 786 | P1: 2 | P2: 42 | Moves: 10 | Time(ms): 176
+Game 787 | P1: 8 | P2: 54 | Moves: 8 | Time(ms): 105
+Game 788 | P1: 22 | P2: 41 | Moves: 16 | Time(ms): 143
+Game 789 | P1: 7 | P2: 58 | Moves: 14 | Time(ms): 115
+Game 790 | P1: 11 | P2: 41 | Moves: 18 | Time(ms): 257
+Game 791 | P1: 4 | P2: 8 | Moves: 5 | Time(ms): 91
+Game 792 | P1: 18 | P2: 46 | Moves: 12 | Time(ms): 212
+Game 793 | P1: 4 | P2: 45 | Moves: 14 | Time(ms): 224
+Game 794 | P1: 6 | P2: 44 | Moves: 10 | Time(ms): 251
+Game 795 | P1: 7 | P2: 51 | Moves: 10 | Time(ms): 126
+Game 796 | P1: 6 | P2: 58 | Moves: 10 | Time(ms): 144
+Game 797 | P1: 6 | P2: 58 | Moves: 8 | Time(ms): 130
+Game 798 | P1: 26 | P2: 39 | Moves: 18 | Time(ms): 224
+Game 799 | P1: 10 | P2: 51 | Moves: 12 | Time(ms): 103
+Game 800 | P1: 12 | P2: 47 | Moves: 16 | Time(ms): 227
+Game 801 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 117
+Game 802 | P1: 8 | P2: 45 | Moves: 8 | Time(ms): 110
+Game 803 | P1: 2 | P2: 58 | Moves: 12 | Time(ms): 208
+Game 804 | P1: 15 | P2: 44 | Moves: 8 | Time(ms): 148
+Game 805 | P1: 11 | P2: 49 | Moves: 14 | Time(ms): 192
+Game 806 | P1: 11 | P2: 55 | Moves: 8 | Time(ms): 133
+Game 807 | P1: 6 | P2: 64 | Moves: 6 | Time(ms): 99
+Game 808 | P1: 22 | P2: 39 | Moves: 11 | Time(ms): 224
+Game 809 | P1: 5 | P2: 51 | Moves: 10 | Time(ms): 169
+Game 810 | P1: 4 | P2: 60 | Moves: 10 | Time(ms): 149
+Game 811 | P1: 10 | P2: 54 | Moves: 16 | Time(ms): 187
+Game 812 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 125
+Game 813 | P1: 18 | P2: 44 | Moves: 20 | Time(ms): 267
+Game 814 | P1: 4 | P2: 58 | Moves: 22 | Time(ms): 259
+Game 815 | P1: 35 | P2: 34 | Moves: 9 | Time(ms): 99
+Game 816 | P1: 4 | P2: 56 | Moves: 12 | Time(ms): 165
+Game 817 | P1: 1 | P2: 44 | Moves: 14 | Time(ms): 234
+Game 818 | P1: 6 | P2: 45 | Moves: 12 | Time(ms): 272
+Game 819 | P1: 1 | P2: 46 | Moves: 10 | Time(ms): 230
+Game 820 | P1: 12 | P2: 54 | Moves: 16 | Time(ms): 249
+Game 821 | P1: 6 | P2: 46 | Moves: 14 | Time(ms): 200
+Game 822 | P1: 6 | P2: 43 | Moves: 12 | Time(ms): 243
+Game 823 | P1: 17 | P2: 47 | Moves: 8 | Time(ms): 83
+Game 824 | P1: 15 | P2: 47 | Moves: 10 | Time(ms): 176
+Game 825 | P1: 1 | P2: 44 | Moves: 10 | Time(ms): 196
+Game 826 | P1: 8 | P2: 45 | Moves: 10 | Time(ms): 116
+Game 827 | P1: 11 | P2: 47 | Moves: 14 | Time(ms): 177
+Game 828 | P1: 11 | P2: 51 | Moves: 12 | Time(ms): 210
+Game 829 | P1: 16 | P2: 44 | Moves: 12 | Time(ms): 208
+Game 830 | P1: 10 | P2: 52 | Moves: 10 | Time(ms): 169
+Game 831 | P1: 22 | P2: 41 | Moves: 22 | Time(ms): 295
+Game 832 | P1: 15 | P2: 47 | Moves: 10 | Time(ms): 327
+Game 833 | P1: 1 | P2: 38 | Moves: 15 | Time(ms): 176
+Game 834 | P1: 6 | P2: 54 | Moves: 16 | Time(ms): 214
+Game 835 | P1: 18 | P2: 42 | Moves: 10 | Time(ms): 147
+Game 836 | P1: 9 | P2: 41 | Moves: 10 | Time(ms): 236
+Game 837 | P1: 3 | P2: 42 | Moves: 12 | Time(ms): 209
+Game 838 | P1: 6 | P2: 64 | Moves: 10 | Time(ms): 157
+Game 839 | P1: 2 | P2: 45 | Moves: 16 | Time(ms): 291
+Game 840 | P1: 12 | P2: 51 | Moves: 10 | Time(ms): 193
+Game 841 | P1: 7 | P2: 42 | Moves: 16 | Time(ms): 343
+Game 842 | P1: 14 | P2: 52 | Moves: 16 | Time(ms): 168
+Game 843 | P1: 6 | P2: 59 | Moves: 14 | Time(ms): 152
+Game 844 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 133
+Game 845 | P1: 21 | P2: 44 | Moves: 20 | Time(ms): 164
+Game 846 | P1: 6 | P2: 56 | Moves: 14 | Time(ms): 150
+Game 847 | P1: 0 | P2: 32 | Moves: 11 | Time(ms): 197
+Game 848 | P1: 2 | P2: 60 | Moves: 8 | Time(ms): 95
+Game 849 | P1: 8 | P2: 45 | Moves: 10 | Time(ms): 107
+Game 850 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 113
+Game 851 | P1: 3 | P2: 51 | Moves: 8 | Time(ms): 85
+Game 852 | P1: 3 | P2: 58 | Moves: 14 | Time(ms): 163
+Game 853 | P1: 8 | P2: 56 | Moves: 24 | Time(ms): 251
+Game 854 | P1: 1 | P2: 44 | Moves: 6 | Time(ms): 111
+Game 855 | P1: 6 | P2: 52 | Moves: 12 | Time(ms): 140
+Game 856 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 167
+Game 857 | P1: 6 | P2: 42 | Moves: 10 | Time(ms): 172
+Game 858 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 88
+Game 859 | P1: 12 | P2: 51 | Moves: 10 | Time(ms): 73
+Game 860 | P1: 6 | P2: 43 | Moves: 8 | Time(ms): 155
+Game 861 | P1: 0 | P2: 59 | Moves: 10 | Time(ms): 207
+Game 862 | P1: 0 | P2: 62 | Moves: 8 | Time(ms): 116
+Game 863 | P1: 29 | P2: 36 | Moves: 14 | Time(ms): 216
+Game 864 | P1: 25 | P2: 45 | Moves: 16 | Time(ms): 206
+Game 865 | P1: 14 | P2: 47 | Moves: 16 | Time(ms): 162
+Game 866 | P1: 8 | P2: 58 | Moves: 12 | Time(ms): 148
+Game 867 | P1: 4 | P2: 59 | Moves: 18 | Time(ms): 141
+Game 868 | P1: 3 | P2: 44 | Moves: 14 | Time(ms): 129
+Game 869 | P1: 6 | P2: 58 | Moves: 8 | Time(ms): 102
+Game 870 | P1: 11 | P2: 59 | Moves: 14 | Time(ms): 181
+Game 871 | P1: 2 | P2: 51 | Moves: 8 | Time(ms): 118
+Game 872 | P1: 10 | P2: 53 | Moves: 12 | Time(ms): 134
+Game 873 | P1: 11 | P2: 42 | Moves: 10 | Time(ms): 127
+Game 874 | P1: 0 | P2: 42 | Moves: 10 | Time(ms): 201
+Game 875 | P1: 6 | P2: 46 | Moves: 8 | Time(ms): 139
+Game 876 | P1: 21 | P2: 35 | Moves: 8 | Time(ms): 116
+Game 877 | P1: 7 | P2: 58 | Moves: 12 | Time(ms): 138
+Game 878 | P1: 3 | P2: 59 | Moves: 20 | Time(ms): 219
+Game 879 | P1: 28 | P2: 33 | Moves: 12 | Time(ms): 173
+Game 880 | P1: 7 | P2: 47 | Moves: 12 | Time(ms): 167
+Game 881 | P1: 7 | P2: 49 | Moves: 16 | Time(ms): 266
+Game 882 | P1: 0 | P2: 65 | Moves: 12 | Time(ms): 235
+Game 883 | P1: 10 | P2: 50 | Moves: 12 | Time(ms): 241
+Game 884 | P1: 6 | P2: 57 | Moves: 16 | Time(ms): 285
+Game 885 | P1: 31 | P2: 34 | Moves: 10 | Time(ms): 105
+Game 886 | P1: 4 | P2: 57 | Moves: 18 | Time(ms): 256
+Game 887 | P1: 6 | P2: 55 | Moves: 14 | Time(ms): 178
+Game 888 | P1: 0 | P2: 45 | Moves: 6 | Time(ms): 145
+Game 889 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 128
+Game 890 | P1: 12 | P2: 49 | Moves: 10 | Time(ms): 99
+Game 891 | P1: 7 | P2: 59 | Moves: 12 | Time(ms): 154
+Game 892 | P1: 10 | P2: 58 | Moves: 24 | Time(ms): 217
+Game 893 | P1: 16 | P2: 41 | Moves: 12 | Time(ms): 191
+Game 894 | P1: 6 | P2: 50 | Moves: 10 | Time(ms): 161
+Game 895 | P1: 21 | P2: 42 | Moves: 10 | Time(ms): 127
+Game 896 | P1: 10 | P2: 54 | Moves: 14 | Time(ms): 184
+Game 897 | P1: 1 | P2: 64 | Moves: 20 | Time(ms): 212
+Game 898 | P1: 6 | P2: 60 | Moves: 12 | Time(ms): 109
+Game 899 | P1: 7 | P2: 61 | Moves: 10 | Time(ms): 113
+Game 900 | P1: 9 | P2: 51 | Moves: 10 | Time(ms): 175
+Game 901 | P1: 12 | P2: 48 | Moves: 10 | Time(ms): 165
+Game 902 | P1: 11 | P2: 53 | Moves: 12 | Time(ms): 189
+Game 903 | P1: 1 | P2: 14 | Moves: 7 | Time(ms): 216
+Game 904 | P1: 14 | P2: 51 | Moves: 16 | Time(ms): 165
+Game 905 | P1: 25 | P2: 41 | Moves: 22 | Time(ms): 148
+Game 906 | P1: 19 | P2: 45 | Moves: 22 | Time(ms): 214
+Game 907 | P1: 5 | P2: 52 | Moves: 12 | Time(ms): 255
+Game 908 | P1: 9 | P2: 42 | Moves: 14 | Time(ms): 294
+Game 909 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 100
+Game 910 | P1: 6 | P2: 46 | Moves: 12 | Time(ms): 237
+Game 911 | P1: 13 | P2: 47 | Moves: 8 | Time(ms): 143
+Game 912 | P1: 7 | P2: 53 | Moves: 16 | Time(ms): 219
+Game 913 | P1: 14 | P2: 47 | Moves: 14 | Time(ms): 180
+Game 914 | P1: 0 | P2: 42 | Moves: 10 | Time(ms): 176
+Game 915 | P1: 0 | P2: 46 | Moves: 16 | Time(ms): 210
+Game 916 | P1: 2 | P2: 51 | Moves: 8 | Time(ms): 115
+Game 917 | P1: 16 | P2: 43 | Moves: 10 | Time(ms): 146
+Game 918 | P1: 7 | P2: 56 | Moves: 12 | Time(ms): 106
+Game 919 | P1: 6 | P2: 45 | Moves: 12 | Time(ms): 267
+Game 920 | P1: 8 | P2: 59 | Moves: 24 | Time(ms): 257
+Game 921 | P1: 1 | P2: 43 | Moves: 10 | Time(ms): 176
+Game 922 | P1: 8 | P2: 53 | Moves: 8 | Time(ms): 128
+Game 923 | P1: 12 | P2: 41 | Moves: 12 | Time(ms): 180
+Game 924 | P1: 6 | P2: 55 | Moves: 14 | Time(ms): 181
+Game 925 | P1: 8 | P2: 43 | Moves: 10 | Time(ms): 183
+Game 926 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 115
+Game 927 | P1: 6 | P2: 52 | Moves: 10 | Time(ms): 182
+Game 928 | P1: 17 | P2: 41 | Moves: 20 | Time(ms): 176
+Game 929 | P1: 31 | P2: 32 | Moves: 11 | Time(ms): 156
+Game 930 | P1: 0 | P2: 27 | Moves: 11 | Time(ms): 170
+Game 931 | P1: 6 | P2: 59 | Moves: 8 | Time(ms): 113
+Game 932 | P1: 6 | P2: 52 | Moves: 10 | Time(ms): 229
+Game 933 | P1: 8 | P2: 43 | Moves: 12 | Time(ms): 172
+Game 934 | P1: 11 | P2: 43 | Moves: 12 | Time(ms): 144
+Game 935 | P1: 10 | P2: 50 | Moves: 12 | Time(ms): 203
+Game 936 | P1: 6 | P2: 45 | Moves: 8 | Time(ms): 174
+Game 937 | P1: 12 | P2: 47 | Moves: 18 | Time(ms): 176
+Game 938 | P1: 4 | P2: 41 | Moves: 8 | Time(ms): 209
+Game 939 | P1: 7 | P2: 43 | Moves: 6 | Time(ms): 122
+Game 940 | P1: 13 | P2: 52 | Moves: 12 | Time(ms): 226
+Game 941 | P1: 15 | P2: 46 | Moves: 10 | Time(ms): 186
+Game 942 | P1: 9 | P2: 48 | Moves: 10 | Time(ms): 155
+Game 943 | P1: 17 | P2: 44 | Moves: 10 | Time(ms): 127
+Game 944 | P1: 3 | P2: 51 | Moves: 8 | Time(ms): 147
+Game 945 | P1: 8 | P2: 52 | Moves: 14 | Time(ms): 184
+Game 946 | P1: 15 | P2: 46 | Moves: 10 | Time(ms): 163
+Game 947 | P1: 20 | P2: 42 | Moves: 14 | Time(ms): 152
+Game 948 | P1: 10 | P2: 41 | Moves: 12 | Time(ms): 168
+Game 949 | P1: 9 | P2: 52 | Moves: 14 | Time(ms): 242
+Game 950 | P1: 4 | P2: 26 | Moves: 11 | Time(ms): 167
+Game 951 | P1: 2 | P2: 67 | Moves: 18 | Time(ms): 184
+Game 952 | P1: 7 | P2: 42 | Moves: 16 | Time(ms): 240
+Game 953 | P1: 4 | P2: 60 | Moves: 10 | Time(ms): 111
+Game 954 | P1: 0 | P2: 42 | Moves: 8 | Time(ms): 107
+Game 955 | P1: 7 | P2: 54 | Moves: 12 | Time(ms): 176
+Game 956 | P1: 5 | P2: 54 | Moves: 14 | Time(ms): 160
+Game 957 | P1: 16 | P2: 46 | Moves: 8 | Time(ms): 73
+Game 958 | P1: 3 | P2: 60 | Moves: 14 | Time(ms): 170
+Game 959 | P1: 11 | P2: 49 | Moves: 10 | Time(ms): 76
+Game 960 | P1: 7 | P2: 53 | Moves: 12 | Time(ms): 142
+Game 961 | P1: 3 | P2: 57 | Moves: 12 | Time(ms): 204
+Game 962 | P1: 1 | P2: 44 | Moves: 6 | Time(ms): 98
+Game 963 | P1: 9 | P2: 48 | Moves: 16 | Time(ms): 280
+Game 964 | P1: 15 | P2: 47 | Moves: 6 | Time(ms): 130
+Game 965 | P1: 18 | P2: 41 | Moves: 22 | Time(ms): 183
+Game 966 | P1: 0 | P2: 46 | Moves: 8 | Time(ms): 142
+Game 967 | P1: 14 | P2: 49 | Moves: 16 | Time(ms): 153
+Game 968 | P1: 9 | P2: 58 | Moves: 18 | Time(ms): 203
+Game 969 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 109
+Game 970 | P1: 11 | P2: 51 | Moves: 16 | Time(ms): 228
+Game 971 | P1: 18 | P2: 45 | Moves: 18 | Time(ms): 214
+Game 972 | P1: 15 | P2: 44 | Moves: 8 | Time(ms): 108
+Game 973 | P1: 13 | P2: 47 | Moves: 8 | Time(ms): 115
+Game 974 | P1: 7 | P2: 43 | Moves: 6 | Time(ms): 134
+Game 975 | P1: 3 | P2: 47 | Moves: 8 | Time(ms): 77
+Game 976 | P1: 8 | P2: 53 | Moves: 12 | Time(ms): 175
+Game 977 | P1: 0 | P2: 61 | Moves: 6 | Time(ms): 104
+Game 978 | P1: 6 | P2: 46 | Moves: 12 | Time(ms): 146
+Game 979 | P1: 8 | P2: 43 | Moves: 10 | Time(ms): 137
+Game 980 | P1: 21 | P2: 47 | Moves: 16 | Time(ms): 118
+Game 981 | P1: 16 | P2: 47 | Moves: 8 | Time(ms): 61
+Game 982 | P1: 8 | P2: 53 | Moves: 12 | Time(ms): 131
+Game 983 | P1: 0 | P2: 59 | Moves: 8 | Time(ms): 142
+Game 984 | P1: 17 | P2: 42 | Moves: 26 | Time(ms): 228
+Game 985 | P1: 9 | P2: 53 | Moves: 14 | Time(ms): 134
+Game 986 | P1: 16 | P2: 47 | Moves: 14 | Time(ms): 126
+Game 987 | P1: 19 | P2: 46 | Moves: 24 | Time(ms): 144
+Game 988 | P1: 14 | P2: 47 | Moves: 12 | Time(ms): 208
+Game 989 | P1: 7 | P2: 48 | Moves: 16 | Time(ms): 200
+Game 990 | P1: 5 | P2: 48 | Moves: 12 | Time(ms): 158
+Game 991 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 85
+Game 992 | P1: 6 | P2: 50 | Moves: 14 | Time(ms): 147
+Game 993 | P1: 14 | P2: 48 | Moves: 14 | Time(ms): 279
+Game 994 | P1: 2 | P2: 56 | Moves: 14 | Time(ms): 185
+Game 995 | P1: 0 | P2: 70 | Moves: 6 | Time(ms): 116
+Game 996 | P1: 6 | P2: 41 | Moves: 12 | Time(ms): 166
+Game 997 | P1: 11 | P2: 55 | Moves: 8 | Time(ms): 90
+Game 998 | P1: 7 | P2: 58 | Moves: 14 | Time(ms): 142
+Game 999 | P1: 15 | P2: 46 | Moves: 10 | Time(ms): 191
+Game 1000 | P1: 21 | P2: 41 | Moves: 6 | Time(ms): 113
 
 SUMMARY
-P1 Wins: 81
-P2 Wins: 919
-Draws: 0
-Average Moves per Game: 15.574
+P1 Wins: 5
+P2 Wins: 994
+Draws: 1
+Average Moves per Game: 12.711
+Total Simulation Time(ms): 166291
+Average Time per Game(ms): 166.291

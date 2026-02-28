@@ -34,6 +34,49 @@ struct MatchSummary {
     long long totalTimeMs = 0;
 };
 
+int main() {
+
+    const int NUM_GAMES = 1000;
+
+    int mode;
+
+    std::cout << "Select mode:\n";
+    std::cout << "1. Single Game\n";
+    std::cout << "2. Simulation\n";
+    std::cout << "3. Run all agent vs agent simulations\n";
+    std::cout << "Choice: ";
+    std::cin >> mode;
+
+    if (mode == 1) {
+        runSingleGame();
+    }
+    else if (mode == 2) {
+        runSimulation(NUM_GAMES);
+    }
+    else if (mode == 3) {
+        runAllSimulations(NUM_GAMES);
+    }
+    else {
+        std::cout << "Invalid mode.\n";
+    }
+
+    return 0;
+}
+
+
+void runSingleGame() {
+
+    // Choose configuration here
+    Player* p1 = new HumanPlayer(0);
+    Player* p2 = new MCTSPlayer(1);
+
+    Game game(p1, p2);
+    game.run();
+
+    delete p1;
+    delete p2;
+}
+
 static MatchSummary runMatchupSimulation(
     const AgentSpec& p1Agent,
     const AgentSpec& p2Agent,
@@ -107,49 +150,6 @@ static MatchSummary runMatchupSimulation(
     return summary;
 }
 
-int main() {
-
-    const int NUM_GAMES = 1000;
-
-    int mode;
-
-    std::cout << "Select mode:\n";
-    std::cout << "1. Single Game\n";
-    std::cout << "2. Simulation (MCTS vs Min)\n";
-    std::cout << "3. Run all agent vs agent simulations\n";
-    std::cout << "Choice: ";
-    std::cin >> mode;
-
-    if (mode == 1) {
-        runSingleGame();
-    }
-    else if (mode == 2) {
-        runSimulation(NUM_GAMES);
-    }
-    else if (mode == 3) {
-        runAllSimulations(NUM_GAMES);
-    }
-    else {
-        std::cout << "Invalid mode.\n";
-    }
-
-    return 0;
-}
-
-
-void runSingleGame() {
-
-    // Choose configuration here
-    Player* p1 = new HumanPlayer(0);
-    Player* p2 = new MCTSPlayer(1);
-
-    Game game(p1, p2);
-    game.run();
-
-    delete p1;
-    delete p2;
-}
-
 void runSimulation(int numGames) {
     const AgentSpec p1{ "MCTS", [](int side) { return new MCTSPlayer(side); } };
     const AgentSpec p2{ "Min", [](int side) { return new MinPlayer(side); } };
@@ -213,7 +213,7 @@ void runAllSimulations(int numGames) {
         else if (s2 > s1) p2Wins++;
         else draws++;
 
-        out << "Game " << i
+        resultsOut << "Game " << i
             << " | P1: " << s1
             << " | P2: " << s2
             << " | Moves: " << moves
@@ -221,22 +221,22 @@ void runAllSimulations(int numGames) {
             << "\n";
     }
 
-    out << "\nSUMMARY\n";
-    out << "P1 Wins: " << p1Wins << "\n";
-    out << "P2 Wins: " << p2Wins << "\n";
-    out << "Draws: " << draws << "\n";
-    out << "Average Moves per Game: "
+    resultsOut << "\nSUMMARY\n";
+    resultsOut << "P1 Wins: " << p1Wins << "\n";
+    resultsOut << "P2 Wins: " << p2Wins << "\n";
+    resultsOut << "Draws: " << draws << "\n";
+    resultsOut << "Average Moves per Game: "
         << static_cast<double>(totalMoves) / numGames << "\n";
 
     const auto simulationEnd = clock::now();
     const auto totalDurationMs =
         std::chrono::duration_cast<std::chrono::milliseconds>(simulationEnd - simulationStart).count();
 
-    out << "Total Simulation Time(ms): " << totalDurationMs << "\n";
-    out << "Average Time per Game(ms): "
+    resultsOut << "Total Simulation Time(ms): " << totalDurationMs << "\n";
+    resultsOut << "Average Time per Game(ms): "
         << static_cast<double>(totalDurationMs) / numGames << "\n";
 
-    out.close();
+    resultsOut.close();
 
     std::cout << "Simulation complete. Results written to results.txt\n";
 }
