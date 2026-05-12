@@ -15,6 +15,7 @@
 void runSingleGame();
 void runSimulation(int numGames);
 void runAllSimulations(int numGames);
+void runMCTSVsRandomParameterSweep(int roundsPerConfig);
 
 const std::string OutputFile = "results.txt";
 
@@ -34,6 +35,23 @@ struct MatchSummary {
     long long totalTimeMs = 0;
 };
 
+struct MCTSConfig {
+    int iterations;
+    double exploration;
+    int rolloutLimit;
+    double epsilon;
+};
+
+struct ParameterSweepSummary {
+    MCTSConfig config;
+    int games = 0;
+    int mctsWins = 0;
+    int randomWins = 0;
+    int draws = 0;
+    int totalMoves = 0;
+    long long totalTimeMs = 0;
+};
+
 int main() {
 
     const int NUM_GAMES = 1000;
@@ -44,6 +62,7 @@ int main() {
     std::cout << "1. Single Game\n";
     std::cout << "2. Simulation\n";
     std::cout << "3. Run all agent vs agent simulations\n";
+    std::cout << "4. MCTS parameter sweep vs Random (alternating first player)\n";
     std::cout << "Choice: ";
     std::cin >> mode;
 
@@ -55,6 +74,9 @@ int main() {
     }
     else if (mode == 3) {
         runAllSimulations(NUM_GAMES);
+    }
+    else if (mode == 4) {
+        runMCTSVsRandomParameterSweep(400);
     }
     else {
         std::cout << "Invalid mode.\n";
@@ -68,7 +90,7 @@ void runSingleGame() {
 
     // Choose configuration here
     Player* p1 = new HumanPlayer(0);
-    Player* p2 = new MCTSPlayer(1);
+    Player* p2 = new RandomPlayer(1);
 
     Game game(p1, p2);
     game.run();
@@ -151,8 +173,8 @@ static MatchSummary runMatchupSimulation(
 }
 
 void runSimulation(int numGames) {
-    const AgentSpec p1{ "MCTS", [](int side) { return new MCTSPlayer(side); } };
-    const AgentSpec p2{ "Min", [](int side) { return new MinPlayer(side); } };
+    const AgentSpec p1{ "Minimax", [](int side) { return new MCTSPlayer(side); } };
+    const AgentSpec p2{ "Minimax", [](int side) { return new MinPlayer(side); } };
 
     runMatchupSimulation(p1, p2, numGames, OutputFile);
     std::cout << "Simulation complete. Results written to " << OutputFile << "\n";
@@ -216,4 +238,131 @@ void runAllSimulations(int numGames) {
     }
 
     std::cout << "Simulation complete. Results written to results.txt\n";
+}
+
+void runMCTSVsRandomParameterSweep(int roundsPerConfig) {
+    const std::vector<int> iterationsList = { 500, 1000, 2000, 4000 };
+    const std::vector<double> explorationList = { 1.0, 1.2, 1.4, 1.8 };
+    const std::vector<int> rolloutLimitList = { 20, 40, 60 };
+    const std::vector<double> epsilonList = { 0.05, 0.15, 0.30 };
+
+    std::vector<ParameterSweepSummary> summaries;
+    summaries.reserve(iterationsList.size() * explorationList.size() * rolloutLimitList.size() * epsilonList.size());
+
+    using clock = std::chrono::steady_clock;
+
+    for (int iters : iterationsList) {
+        for (double c : explorationList) {
+            for (int rolloutLimit : rolloutLimitList) {
+                for (double eps : epsilonList) {
+                    ParameterSweepSummary summary;
+                    summary.config = { iters, c, rolloutLimit, eps };
+                    summary.games = roundsPerConfig;
+
+                    std::cout << "Testing config"
+                        << " | iters=" << iters
+                        << " | c=" << c
+                        << " | rollout=" << rolloutLimit
+                        << " | epsilon=" << eps
+                        << "\n";
+
+                    for (int gameIndex = 0; gameIndex < roundsPerConfig; ++gameIndex) {
+                        const bool mctsFirst = (gameIndex % 2 == 0);
+
+                        std::unique_ptr<Player> p1(
+                            mctsFirst
+                            ? static_cast<Player*>(new MCTSPlayer(0, iters, c, rolloutLimit, eps))
+                            : static_cast<Player*>(new RandomPlayer(0)));
+
+                        std::unique_ptr<Player> p2(
+                            mctsFirst
+                            ? static_cast<Player*>(new RandomPlayer(1))
+                            : static_cast<Player*>(new MCTSPlayer(1, iters, c, rolloutLimit, eps)));
+
+                        const auto gameStart = clock::now();
+                        Game game(p1.get(), p2.get());
+                        game.runSilent();
+                        const auto gameEnd = clock::now();
+
+                        summary.totalTimeMs += std::chrono::duration_cast<std::chrono::milliseconds>(gameEnd - gameStart).count();
+                        summary.totalMoves += game.getMoves();
+
+                        const int scoreP1 = game.getScore1();
+                        const int scoreP2 = game.getScore2();
+
+                        if (scoreP1 == scoreP2) {
+                            summary.draws++;
+                        }
+                        else {
+                            const bool p1Won = scoreP1 > scoreP2;
+                            const bool mctsWon = (mctsFirst && p1Won) || (!mctsFirst && !p1Won);
+                            if (mctsWon) summary.mctsWins++;
+                            else summary.randomWins++;
+                        }
+                    }
+
+                    summaries.push_back(summary);
+                }
+            }
+        }
+    }
+
+    std::sort(summaries.begin(), summaries.end(), [](const ParameterSweepSummary& a, const ParameterSweepSummary& b) {
+        if (a.mctsWins != b.mctsWins) return a.mctsWins > b.mctsWins;
+        return a.totalTimeMs < b.totalTimeMs;
+        });
+
+    std::ofstream out("MCTSParameterSweep.txt");
+    if (!out.is_open()) {
+        std::cout << "Failed to open MCTSParameterSweep.txt\n";
+        return;
+    }
+
+    out << std::fixed << std::setprecision(3);
+    out << "Rounds per config: " << roundsPerConfig << " (first player alternates every game)\n\n";
+    out << std::left
+        << std::setw(10) << "Iters"
+        << std::setw(10) << "C"
+        << std::setw(10) << "Rollout"
+        << std::setw(10) << "Eps"
+        << std::setw(12) << "MCTS Win%"
+        << std::setw(12) << "Rnd Win%"
+        << std::setw(10) << "Draw%"
+        << std::setw(12) << "AvgMoves"
+        << std::setw(12) << "Avg ms"
+        << "\n";
+    out << std::string(100, '-') << "\n";
+
+    for (const auto& s : summaries) {
+        const double mctsWinPct = 100.0 * s.mctsWins / s.games;
+        const double randomWinPct = 100.0 * s.randomWins / s.games;
+        const double drawPct = 100.0 * s.draws / s.games;
+        const double avgMoves = static_cast<double>(s.totalMoves) / s.games;
+        const double avgMs = static_cast<double>(s.totalTimeMs) / s.games;
+
+        out << std::left
+            << std::setw(10) << s.config.iterations
+            << std::setw(10) << s.config.exploration
+            << std::setw(10) << s.config.rolloutLimit
+            << std::setw(10) << s.config.epsilon
+            << std::setw(12) << mctsWinPct
+            << std::setw(12) << randomWinPct
+            << std::setw(10) << drawPct
+            << std::setw(12) << avgMoves
+            << std::setw(12) << avgMs
+            << "\n";
+    }
+
+    if (!summaries.empty()) {
+        const auto& best = summaries.front();
+        std::cout << "Best config by wins: "
+            << "iters=" << best.config.iterations
+            << ", c=" << best.config.exploration
+            << ", rollout=" << best.config.rolloutLimit
+            << ", epsilon=" << best.config.epsilon
+            << " | wins=" << best.mctsWins << "/" << best.games
+            << "\n";
+    }
+
+    std::cout << "Parameter sweep complete. Results written to MCTSParameterSweep.txt\n";
 }

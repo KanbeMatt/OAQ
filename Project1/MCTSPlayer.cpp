@@ -5,8 +5,8 @@
 
 static std::mt19937 rng(std::random_device{}());
 
-MCTSPlayer::MCTSPlayer(int s, int it, double c)
-    : side(s), iterations(it), exploration(c) {
+MCTSPlayer::MCTSPlayer(int s, int it, double c, int rolloutDepthLimit, double expansionEpsilon)
+    : side(s), iterations(it), exploration(c), rolloutLimit(rolloutDepthLimit), epsilon(expansionEpsilon) {
 }
 
 

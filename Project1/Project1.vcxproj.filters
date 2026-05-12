@@ -157,5 +157,8 @@
     <Text Include="MinVsMin.txt">
       <Filter>Resource Files</Filter>
     </Text>
+    <Text Include="MCTSParameterSweep.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
   </ItemGroup>
 </Project>

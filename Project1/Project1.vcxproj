@@ -156,6 +156,7 @@
     <Text Include="MaxVsMin.txt" />
     <Text Include="MaxVsMinimax.txt" />
     <Text Include="MaxVsRandom.txt" />
+    <Text Include="MCTSParameterSweep.txt" />
     <Text Include="MCTSVsMax.txt" />
     <Text Include="MCTSVsMCTS.txt" />
     <Text Include="MCTSVsMin.txt" />
