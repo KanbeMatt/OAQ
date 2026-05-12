@@ -6,7 +6,7 @@
 
 class MCTSPlayer : public Player {
 public:
-    MCTSPlayer(int side, int iterations = 2000, double c = 1.4, int rolloutLimit = 40, double epsilon = 0.15);
+    MCTSPlayer(int side, int iterations = 500, double c = 1.4, int rolloutLimit = 20, double epsilon = 0.15);
 
     Move chooseMove(const GameState& state) override;
 
