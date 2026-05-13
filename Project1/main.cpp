@@ -17,7 +17,7 @@ void runSimulation(int numGames);
 void runAllSimulations(int numGames);
 void runMCTSParameterSweep(int roundsPerConfig);
 
-const std::string OutputFile = "MinimaxVsMCTS.txt";
+const std::string OutputFile = "MCTSVsMin.txt";
 
 struct AgentSpec {
     std::string name;
@@ -62,7 +62,7 @@ int main() {
     std::cout << "1. Single Game\n";
     std::cout << "2. Simulation\n";
     std::cout << "3. Run all agent vs agent simulations\n";
-    std::cout << "4. MCTS parameter sweep vs Random (alternating first player)\n";
+    std::cout << "4. MCTS parameter sweep (alternating first player)\n";
     std::cout << "Choice: ";
     std::cin >> mode;
 
@@ -173,8 +173,8 @@ static MatchSummary runMatchupSimulation(
 }
 
 void runSimulation(int numGames) {
-    const AgentSpec p1{ "Minimax", [](int side) { return new MinimaxPlayer(side); } };
-    const AgentSpec p2{ "MCTS", [](int side) { return new MCTSPlayer(side); } };
+    const AgentSpec p1{ "MCTS", [](int side) { return new MCTSPlayer(side); } };
+    const AgentSpec p2{ "Min", [](int side) { return new MinPlayer(side); } };
 
     runMatchupSimulation(p1, p2, numGames, OutputFile);
     std::cout << "Simulation complete. Results written to " << OutputFile << "\n";
