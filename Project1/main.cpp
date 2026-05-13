@@ -15,9 +15,9 @@
 void runSingleGame();
 void runSimulation(int numGames);
 void runAllSimulations(int numGames);
-void runMCTSVsRandomParameterSweep(int roundsPerConfig);
+void runMCTSParameterSweep(int roundsPerConfig);
 
-const std::string OutputFile = "results.txt";
+const std::string OutputFile = "MinimaxVsMCTS.txt";
 
 struct AgentSpec {
     std::string name;
@@ -76,7 +76,7 @@ int main() {
         runAllSimulations(NUM_GAMES);
     }
     else if (mode == 4) {
-        runMCTSVsRandomParameterSweep(400);
+        runMCTSParameterSweep(50);
     }
     else {
         std::cout << "Invalid mode.\n";
@@ -173,8 +173,8 @@ static MatchSummary runMatchupSimulation(
 }
 
 void runSimulation(int numGames) {
-    const AgentSpec p1{ "Minimax", [](int side) { return new MCTSPlayer(side); } };
-    const AgentSpec p2{ "Minimax", [](int side) { return new MinPlayer(side); } };
+    const AgentSpec p1{ "Minimax", [](int side) { return new MinimaxPlayer(side); } };
+    const AgentSpec p2{ "MCTS", [](int side) { return new MCTSPlayer(side); } };
 
     runMatchupSimulation(p1, p2, numGames, OutputFile);
     std::cout << "Simulation complete. Results written to " << OutputFile << "\n";
@@ -240,7 +240,7 @@ void runAllSimulations(int numGames) {
     std::cout << "Simulation complete. Results written to results.txt\n";
 }
 
-void runMCTSVsRandomParameterSweep(int roundsPerConfig) {
+void runMCTSParameterSweep(int roundsPerConfig) {
     const std::vector<int> iterationsList = { 500, 1000, 2000, 4000 };
     const std::vector<double> explorationList = { 1.0, 1.2, 1.4, 1.8 };
     const std::vector<int> rolloutLimitList = { 20, 40, 60 };
@@ -272,11 +272,11 @@ void runMCTSVsRandomParameterSweep(int roundsPerConfig) {
                         std::unique_ptr<Player> p1(
                             mctsFirst
                             ? static_cast<Player*>(new MCTSPlayer(0, iters, c, rolloutLimit, eps))
-                            : static_cast<Player*>(new RandomPlayer(0)));
+                            : static_cast<Player*>(new MinPlayer(0)));
 
                         std::unique_ptr<Player> p2(
                             mctsFirst
-                            ? static_cast<Player*>(new RandomPlayer(1))
+                            ? static_cast<Player*>(new MinPlayer(1))
                             : static_cast<Player*>(new MCTSPlayer(1, iters, c, rolloutLimit, eps)));
 
                         const auto gameStart = clock::now();

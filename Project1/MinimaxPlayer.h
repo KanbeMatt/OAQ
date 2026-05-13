@@ -11,7 +11,7 @@ private:
     int maxDepth;
 
 public:
-    MinimaxPlayer(int side, int depth = 6);
+    MinimaxPlayer(int side, int depth = 3);
 
     Move chooseMove(const GameState& state) override;
 
