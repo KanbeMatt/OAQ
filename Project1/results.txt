@@ -1,27 +1,27 @@
-P1          P2          P1 Win%   P2 Win%   Draw%     Avg Moves   Avg ms      File
---------------------------------------------------------------------------------
-Random      Random      60.70     38.70     0.60      33.49       0.23        RandomVsRandom.txt
-Random      Minimax     0.40      99.60     0.00      13.75       1.49        RandomVsMinimax.txt
-Random      MCTS        3.40      96.60     0.00      13.48       138.26      RandomVsMCTS.txt
-Random      Max         6.60      93.10     0.30      16.90       0.09        RandomVsMax.txt
-Random      Min         4.30      95.60     0.10      21.99       0.20        RandomVsMin.txt
-Minimax     Random      99.60     0.40      0.00      10.74       1.61        MinimaxVsRandom.txt
-Minimax     Minimax     95.80     4.20      0.00      22.64       4.80        MinimaxVsMinimax.txt
-Minimax     MCTS        95.30     4.70      0.00      35.21       401.74      MinimaxVsMCTS.txt
-Minimax     Max         99.10     0.00      0.90      18.79       1.95        MinimaxVsMax.txt
-Minimax     Min         100.00    0.00      0.00      13.00       2.00        MinimaxVsMin.txt
-MCTS        Random      98.90     1.10      0.00      11.07       128.52      MCTSVsRandom.txt
-MCTS        Minimax     10.30     88.50     1.20      47.31       590.04      MCTSVsMinimax.txt
-MCTS        MCTS        56.00     42.00     2.00      56.58       1369.20     MCTSVsMCTS.txt
-MCTS        Max         69.70     29.30     1.00      39.35       475.37      MCTSVsMax.txt
-MCTS        Min         43.70     54.90     1.40      38.04       435.34      MCTSVsMin.txt
-Max         Random      97.30     2.60      0.10      12.62       0.08        MaxVsRandom.txt
-Max         Minimax     1.90      98.10     0.00      26.68       1.45        MaxVsMinimax.txt
-Max         MCTS        47.40     51.80     0.80      38.23       421.12      MaxVsMCTS.txt
-Max         Max         71.90     27.50     0.60      20.84       0.09        MaxVsMax.txt
-Max         Min         41.30     56.50     2.20      32.66       0.21        MaxVsMin.txt
-Min         Random      97.70     2.20      0.10      19.13       0.18        MinVsRandom.txt
-Min         Minimax     2.70      97.20     0.10      25.29       2.25        MinVsMinimax.txt
-Min         MCTS        48.10     50.80     1.10      31.58       343.47      MinVsMCTS.txt
-Min         Max         66.20     33.30     0.50      27.31       0.20        MinVsMax.txt
-Min         Min         38.40     60.40     1.20      46.18       0.38        MinVsMin.txt
+P1          P2          P1 Win%   P2 Win%   Draw%     Avg Score DiffAvg Moves   Avg ms      File
+----------------------------------------------------------------------------------------------------
+Random      Random      58.70     40.80     0.50      5.58          33.45       0.18        RandomVsRandom.txt
+Random      Minimax     0.80      99.10     0.10      -41.51        13.21       1.47        RandomVsMinimax.txt
+Random      MCTS        2.00      98.00     0.00      -39.17        12.91       127.69      RandomVsMCTS.txt
+Random      Max         6.80      92.50     0.70      -32.29        16.23       0.09        RandomVsMax.txt
+Random      Min         3.80      96.00     0.20      -38.55        21.79       0.19        RandomVsMin.txt
+Minimax     Random      99.90     0.10      0.00      44.74         10.59       1.51        MinimaxVsRandom.txt
+Minimax     Minimax     95.80     4.20      0.00      37.01         22.57       4.59        MinimaxVsMinimax.txt
+Minimax     MCTS        94.20     5.30      0.50      28.51         35.17       387.12      MinimaxVsMCTS.txt
+Minimax     Max         98.90     0.10      1.00      26.12         18.81       1.79        MinimaxVsMax.txt
+Minimax     Min         100.00    0.00      0.00      41.00         13.00       1.86        MinimaxVsMin.txt
+MCTS        Random      98.70     1.30      0.00      44.01         10.64       118.13      MCTSVsRandom.txt
+MCTS        Minimax     10.60     88.20     1.20      -20.10        48.83       573.39      MCTSVsMinimax.txt
+MCTS        MCTS        54.20     44.80     1.00      2.41          50.58       1147.39     MCTSVsMCTS.txt
+MCTS        Max         69.30     29.90     0.80      12.27         39.53       456.96      MCTSVsMax.txt
+MCTS        Min         42.30     56.10     1.60      -7.55         37.62       429.45      MCTSVsMin.txt
+Max         Random      98.10     1.90      0.00      37.96         13.28       0.09        MaxVsRandom.txt
+Max         Minimax     1.40      98.50     0.10      -27.59        28.80       1.49        MaxVsMinimax.txt
+Max         MCTS        48.30     50.80     0.90      -2.42         36.38       403.54      MaxVsMCTS.txt
+Max         Max         70.60     28.70     0.70      15.97         23.08       0.10        MaxVsMax.txt
+Max         Min         40.40     57.90     1.70      -12.41        30.74       0.21        MaxVsMin.txt
+Min         Random      97.70     2.20      0.10      39.89         17.95       0.18        MinVsRandom.txt
+Min         Minimax     2.60      97.40     0.00      -43.73        25.55       2.26        MinVsMinimax.txt
+Min         MCTS        49.00     49.60     1.40      2.18          34.27       363.91      MinVsMCTS.txt
+Min         Max         68.20     31.20     0.60      18.87         26.12       0.19        MinVsMax.txt
+Min         Min         40.00     59.20     0.80      -4.26         46.37       0.39        MinVsMin.txt

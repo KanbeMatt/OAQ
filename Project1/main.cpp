@@ -33,6 +33,7 @@ struct MatchSummary {
     int draws = 0;
     int totalMoves = 0;
     long long totalTimeMs = 0;
+    long long totalScoreDiff = 0;
 };
 
 struct MCTSConfig {
@@ -76,7 +77,7 @@ int main() {
         runAllSimulations(NUM_GAMES);
     }
     else if (mode == 4) {
-        runMCTSParameterSweep(50);
+        runMCTSParameterSweep(100);
     }
     else {
         std::cout << "Invalid mode.\n";
@@ -135,6 +136,7 @@ static MatchSummary runMatchupSimulation(
 
         const int s1 = game.getScore1();
         const int s2 = game.getScore2();
+		summary.totalScoreDiff += (s1 - s2);
         const int moves = game.getMoves();
 
         const auto gameEnd = clock::now();
@@ -210,12 +212,13 @@ void runAllSimulations(int numGames) {
         << std::setw(10) << "P1 Win%"
         << std::setw(10) << "P2 Win%"
         << std::setw(10) << "Draw%"
+        << std::setw(14) << "Avg Score Diff"
         << std::setw(12) << "Avg Moves"
         << std::setw(12) << "Avg ms"
         << "File"
         << "\n";
 
-    resultsOut << std::string(80, '-') << "\n";
+    resultsOut << std::string(100, '-') << "\n";
     resultsOut << std::fixed << std::setprecision(2);
 
     for (const MatchSummary& summary : allSummaries) {
@@ -224,6 +227,7 @@ void runAllSimulations(int numGames) {
         const double drawPct = 100.0 * summary.draws / summary.games;
         const double avgMoves = static_cast<double>(summary.totalMoves) / summary.games;
         const double avgMs = static_cast<double>(summary.totalTimeMs) / summary.games;
+        const double avgScoreDiff = static_cast<double>(summary.totalScoreDiff) / summary.games;
 
         resultsOut << std::left
             << std::setw(12) << summary.p1Name
@@ -231,6 +235,7 @@ void runAllSimulations(int numGames) {
             << std::setw(10) << p1WinPct
             << std::setw(10) << p2WinPct
             << std::setw(10) << drawPct
+            << std::setw(14) << avgScoreDiff
             << std::setw(12) << avgMoves
             << std::setw(12) << avgMs
             << (summary.p1Name + "Vs" + summary.p2Name + ".txt")

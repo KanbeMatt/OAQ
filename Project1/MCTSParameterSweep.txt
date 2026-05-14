@@ -1,4 +1,4 @@
-Rounds per config: 50 (first player alternates every game)
+Rounds per config: 100 (first player alternates every game)
 
 Iters     C         Rollout   Eps       MCTS Win%   Rnd Win%    Draw%     AvgMoves    Avg ms      
 ----------------------------------------------------------------------------------------------------
